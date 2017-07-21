@@ -1,0 +1,1181 @@
+Movie{name='Matchstick Men (2003)', genres=[Crime, Comedy, Drama]}
+Movie{name='Dummy (2002)', genres=[Romance, Comedy, Drama]}
+Movie{name='Lost in Translation (2003)', genres=[Romance, Comedy, Drama]}
+Movie{name='Millennium Actress (Sennen joyû) (2001)', genres=[Animation, Romance, Drama]}
+Movie{name='Once Upon a Time in China (Wong Fei Hung) (1991)', genres=[Action, Adventure, Drama]}
+Movie{name='Paper Moon (1973)', genres=[Crime, Comedy, Drama]}
+Movie{name='Ugly American, The (1963)', genres=[Drama]}
+Movie{name='Convoy (1978)', genres=[Action, Comedy, Drama]}
+Movie{name='Rose, The (1979)', genres=[Drama]}
+Movie{name='Cold Creek Manor (2003)', genres=[Thriller, Drama]}
+Movie{name='Secondhand Lions (2003)', genres=[Comedy, Children, Drama]}
+Movie{name='Demonlover (2002)', genres=[Crime, Thriller, Mystery, Drama]}
+Movie{name='In This World (2002)', genres=[Adventure, Drama]}
+Movie{name='Yossi & Jagger (2002)', genres=[Romance, Drama]}
+Movie{name='Under the Tuscan Sun (2003)', genres=[Romance, Comedy, Drama]}
+Movie{name='Luther (2003)', genres=[Drama]}
+Movie{name='My Life Without Me (2003)', genres=[Romance, Drama]}
+Movie{name='Lagaan: Once Upon a Time in India (2001)', genres=[Romance, Musical, Comedy, Drama]}
+Movie{name='Judgment at Nuremberg (1961)', genres=[Drama]}
+Movie{name='Same Time, Next Year (1978)', genres=[Romance, Comedy, Drama]}
+Movie{name='Rules of the Game, The (La règle du jeu) (1939)', genres=[Comedy, Drama]}
+Movie{name='Kiss of the Spider Woman (1985)', genres=[Drama]}
+Movie{name='All the President's Men (1976)', genres=[Thriller, Drama]}
+Movie{name='Angie (1994)', genres=[Romance, Comedy, Drama]}
+Movie{name='Avalon (2001)', genres=[Fantasy, Sci-Fi, Drama]}
+Movie{name='Babette's Feast (Babettes gæstebud) (1987)', genres=[Drama]}
+Movie{name='Beethoven (1992)', genres=[Comedy, Children, Drama]}
+Movie{name='Boyz N the Hood (1991)', genres=[Crime, Drama]}
+Movie{name='Bugsy (1991)', genres=[Crime, Drama]}
+Movie{name='Sleeping with the Enemy (1991)', genres=[Thriller, Drama]}
+Movie{name='Come and See (Idi i smotri) (1985)', genres=[War, Drama]}
+Movie{name='Ginger Snaps (2000)', genres=[Horror, Thriller, Drama]}
+Movie{name='Ballad of Little Jo, The (1993)', genres=[Western, Drama]}
+Movie{name='Sunday in the Country, A (Un dimanche à la campagne) (1984)', genres=[Drama]}
+Movie{name='Regarding Henry (1991)', genres=[Drama]}
+Movie{name='Hospital, The (1971)', genres=[Comedy, Drama]}
+Movie{name='Leap of Faith (1992)', genres=[Comedy, Drama]}
+Movie{name='Gas, Food, Lodging (1992)', genres=[Romance, Drama]}
+Movie{name='In Cold Blood (1967)', genres=[Crime, Drama]}
+Movie{name='Yankee Doodle Dandy (1942)', genres=[Musical, Drama]}
+Movie{name='Knife in the Water (Nóz w wodzie) (1962)', genres=[Drama]}
+Movie{name='Out of Time (2003)', genres=[Crime, Thriller, Drama]}
+Movie{name='Station Agent, The (2003)', genres=[Comedy, Drama]}
+Movie{name='Wonderland (2003)', genres=[Crime, Thriller, Mystery, Drama]}
+Movie{name='Mystic River (2003)', genres=[Crime, Mystery, Drama]}
+Movie{name='Dopamine (2003)', genres=[Romance, Comedy, Drama]}
+Movie{name='Runaway Jury (2003)', genres=[Thriller, Drama]}
+Movie{name='Pieces of April (2003)', genres=[Comedy, Drama]}
+Movie{name='Sylvia (2003)', genres=[Romance, Drama]}
+Movie{name='Veronica Guerin (2003)', genres=[Crime, Thriller, Drama]}
+Movie{name='In the Cut (2003)', genres=[Crime, Romance, Thriller, Mystery, Drama]}
+Movie{name='Radio (2003)', genres=[Drama]}
+Movie{name='Elephant (2003)', genres=[Drama]}
+Movie{name='Singing Detective, The (2003)', genres=[Musical, Comedy, Mystery, Drama]}
+Movie{name='Sweet Sixteen (2002)', genres=[Drama]}
+Movie{name='Interstate 60 (2002)', genres=[Adventure, Fantasy, Sci-Fi, Comedy, Thriller, Mystery, Drama]}
+Movie{name='That Was Then... This Is Now (1985)', genres=[Drama]}
+Movie{name='Unvanquished, The (Aparajito) (1957)', genres=[Drama]}
+Movie{name='Human Stain, The (2003)', genres=[Romance, Thriller, Drama]}
+Movie{name='Shattered Glass (2003)', genres=[Crime, Drama]}
+Movie{name='In My Skin (Dans ma Peau) (2002)', genres=[Drama]}
+Movie{name='Love Actually (2003)', genres=[Romance, Comedy, Drama]}
+Movie{name='Master and Commander: The Far Side of the World (2003)', genres=[Adventure, War, Drama]}
+Movie{name='21 Grams (2003)', genres=[Crime, Romance, Thriller, Mystery, Drama]}
+Movie{name='Barbarian Invasions, The (Les invasions barbares) (2003)', genres=[Crime, Romance, Comedy, Mystery, Drama]}
+Movie{name='Damage (Fatale) (1992)', genres=[Drama]}
+Movie{name='Dance with a Stranger (1985)', genres=[Crime, Thriller, Drama]}
+Movie{name='Europa (Zentropa) (1991)', genres=[Thriller, Drama]}
+Movie{name='Funny Games (1997)', genres=[Horror, Thriller, Drama]}
+Movie{name='New Jack City (1991)', genres=[Crime, Action, Drama]}
+Movie{name='Slacker (1991)', genres=[Comedy, Drama]}
+Movie{name='WarGames (1983)', genres=[Sci-Fi, Thriller, Drama]}
+Movie{name='Ordet (Word, The) (1955)', genres=[Drama]}
+Movie{name='Forbidden Games (Jeux interdits) (1952)', genres=[War, Drama]}
+Movie{name='Jane Eyre (1944)', genres=[Romance, Drama]}
+Movie{name='Passion of Joan of Arc, The (Passion de Jeanne d'Arc, La) (1928)', genres=[Drama]}
+Movie{name='Ben-Hur: A Tale of the Christ (1925)', genres=[Adventure, Romance, Drama]}
+Movie{name='Gorky Park (1983)', genres=[Crime, Thriller, Drama]}
+Movie{name='The Great Train Robbery (1978)', genres=[Crime, Action, Adventure, Comedy, Drama]}
+Movie{name='Greystoke: The Legend of Tarzan, Lord of the Apes (1984)', genres=[Adventure, Romance, Drama]}
+Movie{name='Guarding Tess (1994)', genres=[Comedy, Drama]}
+Movie{name='Hannah and Her Sisters (1986)', genres=[Romance, Comedy, Drama]}
+Movie{name='Hoffa (1992)', genres=[Crime, Drama]}
+Movie{name='Mindwalk (1990)', genres=[Drama]}
+Movie{name='Kafka (1991)', genres=[Sci-Fi, Comedy, Thriller, Mystery, Drama]}
+Movie{name='Last Boy Scout, The (1991)', genres=[Crime, Action, Comedy, Thriller, Drama]}
+Movie{name='Last Tango in Paris (Ultimo tango a Parigi) (1972)', genres=[Romance, Drama]}
+Movie{name='Lorenzo's Oil (1992)', genres=[Drama]}
+Movie{name='Lover, The (Amant, L') (1992)', genres=[Romance, Drama]}
+Movie{name='Bullfighter, The (Matador) (1986)', genres=[Crime, Comedy, Drama]}
+Movie{name='Night of the Hunter, The (1955)', genres=[Film-Noir, Thriller, Drama]}
+Movie{name='Over the Top (1987)', genres=[Action, Drama]}
+Movie{name='Presumed Innocent (1990)', genres=[Crime, Thriller, Drama]}
+Movie{name='Proof (1991)', genres=[Romance, Comedy, Drama]}
+Movie{name='Battle Royale (Batoru rowaiaru) (2000)', genres=[Action, Horror, Thriller, Drama]}
+Movie{name='Wedding Banquet, The (Xi yan) (1993)', genres=[Romance, Comedy, Drama]}
+Movie{name='Salo, or The 120 Days of Sodom (Salò o le 120 giornate di Sodoma) (1976)', genres=[Drama]}
+Movie{name='Midnight Clear, A (1992)', genres=[War, Drama]}
+Movie{name='Show Me Love (Fucking Åmål) (1998)', genres=[Romance, Drama]}
+Movie{name='Things You Can Tell Just by Looking at Her (2000)', genres=[Romance, Drama]}
+Movie{name='To Live and Die in L.A. (1985)', genres=[Crime, Action, Thriller, Drama]}
+Movie{name='Betty Blue (37°2 le matin) (1986)', genres=[Romance, Drama]}
+Movie{name='Vivre sa vie: Film en douze tableaux (My Life to Live) (1962)', genres=[Drama]}
+Movie{name='Wild at Heart (1990)', genres=[Crime, Romance, Thriller, Mystery, Drama]}
+Movie{name='Public Enemy, The (1931)', genres=[Crime, Action, Drama]}
+Movie{name='National Velvet (1944)', genres=[Children, Drama]}
+Movie{name='Jesus Christ Superstar (1973)', genres=[Musical, Drama]}
+Movie{name='Dark Victory (1939)', genres=[Romance, Drama]}
+Movie{name='Birdman of Alcatraz (1962)', genres=[Drama]}
+Movie{name='Aguirre: The Wrath of God (Aguirre, der Zorn Gottes) (1972)', genres=[Adventure, Drama]}
+Movie{name='Beauty and the Beast (La belle et la bête) (1946)', genres=[Fantasy, Drama]}
+Movie{name='Birth of a Nation, The (1915)', genres=[War, Drama]}
+Movie{name='Juliet of the Spirits (Giulietta degli spiriti) (1965)', genres=[Fantasy, Romance, Comedy, Drama]}
+Movie{name='Last Year at Marienbad (L'Année dernière à Marienbad) (1961)', genres=[Romance, Mystery, Drama]}
+Movie{name='Macbeth (a.k.a. Tragedy of Macbeth, The) (1971)', genres=[Drama]}
+Movie{name='Woman Under the Influence, A (1974)', genres=[Drama]}
+Movie{name='Stagecoach (1939)', genres=[Western, Action, Romance, Drama]}
+Movie{name='Bullitt (1968)', genres=[Crime, Action, Thriller, Drama]}
+Movie{name='Jezebel (1938)', genres=[Drama]}
+Movie{name='Hunchback of Notre Dame, The (1939)', genres=[Drama]}
+Movie{name='42nd Street (1933)', genres=[Romance, Musical, Drama]}
+Movie{name='Sweet Dreams (1985)', genres=[Drama]}
+Movie{name='Pygmalion (1938)', genres=[Comedy, Drama]}
+Movie{name='Passage to India, A (1984)', genres=[Adventure, Drama]}
+Movie{name='Black Orpheus (Orfeu Negro) (1959)', genres=[Romance, Drama]}
+Movie{name='Amarcord (1973)', genres=[Comedy, Drama]}
+Movie{name='Hero (Ying xiong) (2002)', genres=[Action, Adventure, Drama]}
+Movie{name='Looking for Mr. Goodbar (1977)', genres=[Drama]}
+Movie{name='Nausicaä of the Valley of the Wind (Kaze no tani no Naushika) (1984)', genres=[Adventure, Animation, Fantasy, Sci-Fi, Drama]}
+Movie{name='Dragnet (1987)', genres=[Crime, Comedy, Drama]}
+Movie{name='Crime Story (Zhong an zu) (1993)', genres=[Crime, Action, Drama]}
+Movie{name='Blind Beast (Môjuu) (1969)', genres=[Thriller, Drama]}
+Movie{name='Ryan's Daughter (1970)', genres=[Romance, Drama]}
+Movie{name='King of Hearts (1966)', genres=[War, Comedy, Drama]}
+Movie{name='Naked Lunch (1991)', genres=[Fantasy, Sci-Fi, Mystery, Drama]}
+Movie{name='Spring Forward (1999)', genres=[Drama]}
+Movie{name='Killing of a Chinese Bookie, The (1976)', genres=[Film-Noir, Crime, Musical, Comedy, Drama]}
+Movie{name='Darling (1965)', genres=[Drama]}
+Movie{name='Summer Place, A (1959)', genres=[Drama]}
+Movie{name='Shoot the Piano Player (Tirez sur le pianiste) (1960)', genres=[Crime, Romance, Thriller, Drama]}
+Movie{name='Stolen Kisses (Baisers volés) (1968)', genres=[Romance, Comedy, Drama]}
+Movie{name='Cooler, The (2003)', genres=[Romance, Comedy, Drama]}
+Movie{name='In America (2002)', genres=[Romance, Drama]}
+Movie{name='Honey (2003)', genres=[Romance, Drama]}
+Movie{name='Last Samurai, The (2003)', genres=[Action, Adventure, War, Drama]}
+Movie{name='Big Fish (2003)', genres=[Fantasy, Romance, Drama]}
+Movie{name='Something's Gotta Give (2003)', genres=[Romance, Comedy, Drama]}
+Movie{name='Girl with a Pearl Earring (2003)', genres=[Romance, Drama]}
+Movie{name='Statement, The (2003)', genres=[Thriller, Drama]}
+Movie{name='Lord of the Rings: The Return of the King, The (2003)', genres=[Action, Adventure, Fantasy, Drama]}
+Movie{name='Mona Lisa Smile (2003)', genres=[Romance, Drama]}
+Movie{name='House of Sand and Fog (2003)', genres=[Drama]}
+Movie{name='Monster (2003)', genres=[Crime, Drama]}
+Movie{name='Cold Mountain (2003)', genres=[Romance, War, Drama]}
+Movie{name='Company, The (2003)', genres=[Musical, Drama]}
+Movie{name='Distant (Uzak) (2002)', genres=[Drama]}
+Movie{name='Osama (2003)', genres=[Drama]}
+Movie{name='Great Gatsby, The (1974)', genres=[Drama]}
+Movie{name='Wuthering Heights (1992)', genres=[Romance, Drama]}
+Movie{name='Odds Against Tomorrow (1959)', genres=[Crime, Thriller, Drama]}
+Movie{name='Jane Eyre (1970)', genres=[Drama]}
+Movie{name='Enforcer, The (1951)', genres=[Film-Noir, Crime, Drama]}
+Movie{name='Men, The (1950)', genres=[Drama]}
+Movie{name='The Pick-up Artist (1987)', genres=[Crime, Romance, Comedy, Drama]}
+Movie{name='Melvin Goes to Dinner (2003)', genres=[Comedy, Drama]}
+Movie{name='Hells Angels on Wheels (1967)', genres=[Drama]}
+Movie{name='Dr. Jekyll and Mr. Hyde (1941)', genres=[Horror, Drama]}
+Movie{name='To Have and Have Not (1944)', genres=[Adventure, Romance, War, Thriller, Drama]}
+Movie{name='High Sierra (1941)', genres=[Film-Noir, Crime, Thriller, Drama]}
+Movie{name='Dark Passage (1947)', genres=[Film-Noir, Crime, Romance, Thriller, Drama]}
+Movie{name='They Drive by Night (1940)', genres=[Drama]}
+Movie{name='Reefer Madness (a.k.a. Tell Your Children) (1938)', genres=[Comedy, Drama]}
+Movie{name='D.O.A. (1950)', genres=[Film-Noir, Mystery, Drama]}
+Movie{name='Strada, La (1954)', genres=[Drama]}
+Movie{name='Ichi the Killer (Koroshiya 1) (2001)', genres=[Crime, Action, Horror, Comedy, Thriller, Drama]}
+Movie{name='Ashes and Diamonds (Popiól i diament) (1958)', genres=[War, Drama]}
+Movie{name='Intolerance: Love's Struggle Throughout the Ages (1916)', genres=[Drama]}
+Movie{name='Suriyothai (a.k.a. Legend of Suriyothai, The) (2001)', genres=[Action, Adventure, War, Drama]}
+Movie{name='The Butterfly Effect (2004)', genres=[Sci-Fi, Thriller, Drama]}
+Movie{name='Latter Days (2003)', genres=[Romance, Comedy, Drama]}
+Movie{name='Miracle (2004)', genres=[Drama]}
+Movie{name='Dreamers, The (2003)', genres=[Drama]}
+Movie{name='Super Fly (Superfly) (1972)', genres=[Crime, Action, Drama]}
+Movie{name='Swing Shift (1984)', genres=[Drama]}
+Movie{name='Thirteen (2003)', genres=[Drama]}
+Movie{name='Monsieur Ibrahim (Monsieur Ibrahim et les fleurs du Coran) (2003)', genres=[Drama]}
+Movie{name='Vanishing Point (1971)', genres=[Action, Drama]}
+Movie{name='The Diary of Anne Frank (1959)', genres=[War, Drama]}
+Movie{name='Black Widow (1987)', genres=[Crime, Thriller, Mystery, Drama]}
+Movie{name='Flesh & Blood (1985)', genres=[Action, Adventure, War, Drama]}
+Movie{name='Goodbye, Mr. Chips (1939)', genres=[Romance, Drama]}
+Movie{name='Follow Me, Boys! (1966)', genres=[Comedy, Drama]}
+Movie{name='Against the Ropes (2004)', genres=[Comedy, Drama]}
+Movie{name='Passion of the Christ, The (2004)', genres=[Drama]}
+Movie{name='Good bye, Lenin! (2003)', genres=[Comedy, Drama]}
+Movie{name='Hidalgo (2004)', genres=[Adventure, Drama]}
+Movie{name='Persona (1966)', genres=[Drama]}
+Movie{name='Front, The (1976)', genres=[Comedy, Drama]}
+Movie{name='Broken Wings (Knafayim Shvurot) (2002)', genres=[Drama]}
+Movie{name='Wilbur Wants to Kill Himself (2002)', genres=[Romance, Comedy, Drama]}
+Movie{name='Mad Dog and Glory (1993)', genres=[Romance, Comedy, Drama]}
+Movie{name='Peyton Place (1957)', genres=[Romance, Drama]}
+Movie{name='Dawn of the Dead (2004)', genres=[Action, Horror, Thriller, Drama]}
+Movie{name='Eternal Sunshine of the Spotless Mind (2004)', genres=[Romance, Sci-Fi, Drama]}
+Movie{name='Taking Lives (2004)', genres=[Crime, Thriller, Drama]}
+Movie{name='Jersey Girl (2004)', genres=[Romance, Comedy, Drama]}
+Movie{name='Dogville (2003)', genres=[Thriller, Mystery, Drama]}
+Movie{name='Ned Kelly (2003)', genres=[Drama]}
+Movie{name='The Alamo (2004)', genres=[Western, War, Drama]}
+Movie{name='I'm Not Scared (Io non ho paura) (2003)', genres=[Thriller, Mystery, Drama]}
+Movie{name='Ten Commandments, The (1956)', genres=[Adventure, Drama]}
+Movie{name='Dawn of the Dead (1978)', genres=[Action, Horror, Drama]}
+Movie{name='Cheaper by the Dozen (1950)', genres=[Comedy, Drama]}
+Movie{name='Scenes From a Marriage (Scener ur ett äktenskap) (1973)', genres=[Drama]}
+Movie{name='Late Show, The (1977)', genres=[Crime, Comedy, Mystery, Drama]}
+Movie{name='Kill Bill: Vol. 2 (2004)', genres=[Action, Thriller, Drama]}
+Movie{name='Man on Fire (2004)', genres=[Crime, Action, Thriller, Mystery, Drama]}
+Movie{name='Godsend (2004)', genres=[Horror, Thriller, Drama]}
+Movie{name='Valentin (Valentín) (2002)', genres=[Drama]}
+Movie{name='Troy (2004)', genres=[Action, Adventure, War, Drama]}
+Movie{name='Carandiru (2003)', genres=[Crime, Drama]}
+Movie{name='Coffee and Cigarettes (2003)', genres=[Comedy, Drama]}
+Movie{name='Swimming to Cambodia (1987)', genres=[Drama]}
+Movie{name='Enemy Mine (1985)', genres=[Adventure, Sci-Fi, Drama]}
+Movie{name='Henry & June (1990)', genres=[Drama]}
+Movie{name='Martin (1977)', genres=[Horror, Drama]}
+Movie{name='Three Faces of Eve, The (1957)', genres=[Drama]}
+Movie{name='Band of Brothers (2001)', genres=[Action, War, Drama]}
+Movie{name='Kingdom, The (Riget) (1994)', genres=[Horror, Mystery, Drama]}
+Movie{name='Fail-Safe (1964)', genres=[War, Thriller, Drama]}
+Movie{name='Blue Gardenia, The (1953)', genres=[Film-Noir, Crime, Thriller, Drama]}
+Movie{name='Wit (2001)', genres=[Drama]}
+Movie{name='Maborosi (Maboroshi no hikari) (1995)', genres=[Drama]}
+Movie{name='Pride and Prejudice (1940)', genres=[Romance, Comedy, Drama]}
+Movie{name='In This Our Life (1942)', genres=[Drama]}
+Movie{name='Summertime (1955)', genres=[Romance, Drama]}
+Movie{name='Soldier of Orange (a.k.a. Survival Run) (Soldaat van Oranje) (1977)', genres=[War, Thriller, Drama]}
+Movie{name='Samouraï, Le (Godson, The) (1967)', genres=[Crime, Thriller, Drama]}
+Movie{name='White Palace (1990)', genres=[Drama]}
+Movie{name='Desert Hearts (1985)', genres=[Drama]}
+Movie{name='Miracle Worker, The (1962)', genres=[Drama]}
+Movie{name='Monster in a Box (1992)', genres=[Comedy, Drama]}
+Movie{name='School Ties (1992)', genres=[Drama]}
+Movie{name='Girl (1998)', genres=[Drama]}
+Movie{name='Pride and Prejudice (1995)', genres=[Romance, Drama]}
+Movie{name='China Syndrome, The (1979)', genres=[Thriller, Drama]}
+Movie{name='Wages of Fear, The (Salaire de la peur, Le) (1953)', genres=[Action, Adventure, Thriller, Drama]}
+Movie{name='Bells of St. Mary's, The (1945)', genres=[Drama]}
+Movie{name='Cat People (1942)', genres=[Romance, Horror, Thriller, Drama]}
+Movie{name='Camelot (1967)', genres=[Romance, Musical, Drama]}
+Movie{name='Postman Always Rings Twice, The (1946)', genres=[Film-Noir, Crime, Thriller, Drama]}
+Movie{name='That's The Way I Like It (a.k.a. Forever Fever) (1998)', genres=[Romance, Comedy, Drama]}
+Movie{name='Pierrot le fou (1965)', genres=[Crime, Drama]}
+Movie{name='Tuesdays with Morrie (1999)', genres=[Drama]}
+Movie{name='Nostalghia (1983)', genres=[Drama]}
+Movie{name='Tinker, Tailor, Soldier, Spy (1979)', genres=[Thriller, Drama]}
+Movie{name='Driller Killer, The (1979)', genres=[Horror, Drama]}
+Movie{name='Throne of Blood (Kumonosu jô) (1957)', genres=[Action, War, Thriller, Drama]}
+Movie{name='Best of Youth, The (La meglio gioventù) (2003)', genres=[Drama]}
+Movie{name='Zorba the Greek (Alexis Zorbas) (1964)', genres=[Adventure, Drama]}
+Movie{name='Bang, Bang, You're Dead (2002)', genres=[Drama]}
+Movie{name='Sniper (1993)', genres=[Action, Drama]}
+Movie{name='To Hell and Back (1955)', genres=[Action, War, Drama]}
+Movie{name='Ambush (Rukajärven tie) (1999)', genres=[Romance, War, Drama]}
+Movie{name='Babylon 5: The River of Souls (1998)', genres=[Sci-Fi, Drama]}
+Movie{name='Babylon 5: Thirdspace (1998)', genres=[Sci-Fi, Drama]}
+Movie{name='Virgin Spring, The (Jungfrukällan) (1960)', genres=[Crime, Drama]}
+Movie{name='Mogambo (1953)', genres=[Adventure, Romance, Drama]}
+Movie{name='Another Thin Man (1939)', genres=[Crime, Romance, Comedy, Mystery, Drama]}
+Movie{name='Song of the Thin Man (1947)', genres=[Crime, Romance, Musical, Comedy, Mystery, Drama]}
+Movie{name='Dune (2000)', genres=[Fantasy, Sci-Fi, Drama]}
+Movie{name='Getting It Right (1989)', genres=[Comedy, Drama]}
+Movie{name='I Walked with a Zombie (1943)', genres=[Horror, Drama]}
+Movie{name='Bring Me the Head of Alfredo Garcia (1974)', genres=[Crime, Thriller, Drama]}
+Movie{name='Drunken Angel (Yoidore tenshi) (1948)', genres=[Film-Noir, Drama]}
+Movie{name='Valachi Papers,The (1972)', genres=[Crime, Drama]}
+Movie{name='Stray Dog (Nora inu) (1949)', genres=[Film-Noir, Thriller, Drama]}
+Movie{name='High and Low (Tengoku to jigoku) (1963)', genres=[Film-Noir, Crime, Thriller, Drama]}
+Movie{name='Face to Face (Ansikte mot ansikte) (1976)', genres=[Fantasy, Horror, Mystery, Drama]}
+Movie{name='Shame (Skammen) (1968)', genres=[War, Drama]}
+Movie{name='Winter Light (Nattvardsgästerna) (1963)', genres=[Drama]}
+Movie{name='Through a Glass Darkly (Såsom i en spegel) (1961)', genres=[Drama]}
+Movie{name='Summer with Monika (Sommaren med Monika) (1953)', genres=[Romance, Drama]}
+Movie{name='Night of the Iguana, The (1964)', genres=[Thriller, Drama]}
+Movie{name='Reflections in a Golden Eye (1967)', genres=[Drama]}
+Movie{name='Under the Volcano (1984)', genres=[Drama]}
+Movie{name='Wise Blood (1979)', genres=[Comedy, Drama]}
+Movie{name='Bloody Mama (1970)', genres=[Crime, Drama]}
+Movie{name='Trip, The (1967)', genres=[Drama]}
+Movie{name='Ken Park (2002)', genres=[Drama]}
+Movie{name='Bridge Too Far, A (1977)', genres=[Action, War, Drama]}
+Movie{name='Infernal Affairs (Mou gaan dou) (2002)', genres=[Crime, Thriller, Drama]}
+Movie{name='Tale of Two Sisters, A (Janghwa, Hongryeon) (2003)', genres=[Horror, Thriller, Mystery, Drama]}
+Movie{name='Wild Angels, The (1966)', genres=[Action, Drama]}
+Movie{name='Bedlam (1946)', genres=[Horror, Drama]}
+Movie{name='Marjorie Morningstar (1958)', genres=[Drama]}
+Movie{name='Power of One, The (1992)', genres=[Drama]}
+Movie{name='Kikujiro (Kikujirô no natsu) (1999)', genres=[Comedy, Drama]}
+Movie{name='Spring, Summer, Fall, Winter... and Spring (Bom yeoreum gaeul gyeoul geurigo bom) (2003)', genres=[Drama]}
+Movie{name='Getaway, The (1972)', genres=[Crime, Action, Thriller, Drama]}
+Movie{name='Dark Water (Honogurai mizu no soko kara) (2002)', genres=[Horror, Thriller, Mystery, Drama]}
+Movie{name='Mean Streets (1973)', genres=[Crime, Drama]}
+Movie{name='I Am a Fugitive from a Chain Gang (1932)', genres=[Film-Noir, Crime, Drama]}
+Movie{name='Harper (1966)', genres=[Crime, Mystery, Drama]}
+Movie{name='Sweet Bird of Youth (1962)', genres=[Drama]}
+Movie{name='Grill Point (Halbe Treppe) (2002)', genres=[Drama]}
+Movie{name='Shiri (Swiri) (1999)', genres=[Action, Romance, Thriller, Drama]}
+Movie{name='Bad Day at Black Rock (1955)', genres=[Western, Thriller, Drama]}
+Movie{name='Sammy and Rosie Get Laid (1987)', genres=[Comedy, Drama]}
+Movie{name='Sunrise: A Song of Two Humans (1927)', genres=[Romance, Drama]}
+Movie{name='Shock Corridor (1963)', genres=[Drama]}
+Movie{name='Au revoir les enfants (1987)', genres=[Drama]}
+Movie{name='Gladiator (1992)', genres=[Action, Drama]}
+Movie{name='Inheritance, The (Arven) (2003)', genres=[Drama]}
+Movie{name='Lola Montès (1955)', genres=[Drama]}
+Movie{name='Charly (1968)', genres=[Sci-Fi, Drama]}
+Movie{name='Dolce Vita, La (1960)', genres=[Drama]}
+Movie{name='Rush (1991)', genres=[Crime, Drama]}
+Movie{name='Educating Rita (1983)', genres=[Comedy, Drama]}
+Movie{name='Sansho the Bailiff (Sanshô dayû) (1954)', genres=[Drama]}
+Movie{name='Americanization of Emily, The (1964)', genres=[War, Comedy, Drama]}
+Movie{name='Anne of the Thousand Days (1969)', genres=[Drama]}
+Movie{name='Baby Doll (1956)', genres=[Drama]}
+Movie{name='Avventura, L' (Adventure, The) (1960)', genres=[Romance, Mystery, Drama]}
+Movie{name='Hiroshima Mon Amour (1959)', genres=[Romance, War, Drama]}
+Movie{name='Ugetsu (Ugetsu monogatari) (1953)', genres=[Thriller, Drama]}
+Movie{name='Razor's Edge, The (1946)', genres=[Drama]}
+Movie{name='While the City Sleeps (1956)', genres=[Film-Noir, Drama]}
+Movie{name='Viridiana (1961)', genres=[Comedy, Drama]}
+Movie{name='Totally F***ed Up (1993)', genres=[Drama]}
+Movie{name='Arizona Dream (1993)', genres=[Fantasy, Romance, Comedy, Drama]}
+Movie{name='Queen Christina (1933)', genres=[Romance, Drama]}
+Movie{name='Battleground (1949)', genres=[Action, War, Drama]}
+Movie{name='3 Women (Three Women) (1977)', genres=[Drama]}
+Movie{name='Purple Rain (1984)', genres=[Musical, Drama]}
+Movie{name='Signs of Life (Lebenszeichen) (1968)', genres=[Drama]}
+Movie{name='Tale of Ham and Passion, A (Jamón, Jamón) (1992)', genres=[Romance, Comedy, Drama]}
+Movie{name='Dolls (2002)', genres=[Romance, Drama]}
+Movie{name='Sunday Bloody Sunday (1971)', genres=[Drama]}
+Movie{name='Caine Mutiny, The (1954)', genres=[War, Drama]}
+Movie{name='Black Narcissus (1947)', genres=[Drama]}
+Movie{name='Escape from Alcatraz (1979)', genres=[Thriller, Drama]}
+Movie{name='Oliver Twist (1948)', genres=[Crime, Adventure, Drama]}
+Movie{name='Day After Tomorrow, The (2004)', genres=[Action, Adventure, Sci-Fi, Thriller, Drama]}
+Movie{name='Raising Helen (2004)', genres=[Romance, Comedy, Drama]}
+Movie{name='Baadasssss! (How to Get the Man's Foot Outta Your Ass) (2003)', genres=[Drama]}
+Movie{name='Saved! (2004)', genres=[Comedy, Drama]}
+Movie{name='Time of the Wolf, The (Le temps du loup) (2003)', genres=[Drama]}
+Movie{name='Blind Swordsman: Zatoichi, The (Zatôichi) (2003)', genres=[Crime, Action, Comedy, Drama]}
+Movie{name='Ring of Bright Water (1969)', genres=[Comedy, Drama]}
+Movie{name='Fool for Love (1985)', genres=[Drama]}
+Movie{name='Helen of Troy (1956)', genres=[Action, Adventure, Romance, War, Drama]}
+Movie{name='Suddenly (1954)', genres=[Film-Noir, Crime, Drama]}
+Movie{name='Possessed (1947)', genres=[Film-Noir, Drama]}
+Movie{name='Kings Row (1942)', genres=[Romance, Drama]}
+Movie{name='Blackboard Jungle (1955)', genres=[Drama]}
+Movie{name='Heiress, The (1949)', genres=[Romance, Drama]}
+Movie{name='Executive Suite (1954)', genres=[Drama]}
+Movie{name='Johnny Belinda (1948)', genres=[Drama]}
+Movie{name='Super Size Me (2004)', genres=[Comedy, Drama, Documentary]}
+Movie{name='Johnny Eager (1942)', genres=[Film-Noir, Crime, Romance, Drama]}
+Movie{name='Picture of Dorian Gray, The (1945)', genres=[Fantasy, Horror, Drama]}
+Movie{name='Human Condition I, The (Ningen no joken I) (1959)', genres=[War, Drama]}
+Movie{name='Samsara (2001)', genres=[Adventure, Romance, Drama]}
+Movie{name='White Heat (1949)', genres=[Film-Noir, Crime, Drama]}
+Movie{name='Christmas Carol, A (Scrooge) (1951)', genres=[Fantasy, Drama]}
+Movie{name='Memphis Belle (1990)', genres=[Action, War, Drama]}
+Movie{name='Cincinnati Kid, The (1965)', genres=[Drama]}
+Movie{name='Pretty Baby (1978)', genres=[Drama]}
+Movie{name='Show Boat (1951)', genres=[Romance, Musical, Drama]}
+Movie{name='Box of Moon Light (1996)', genres=[Comedy, Drama]}
+Movie{name='Freaks (1932)', genres=[Crime, Horror, Drama]}
+Movie{name='High and the Mighty, The (1954)', genres=[Drama]}
+Movie{name='I'll Sleep When I'm Dead (2003)', genres=[Crime, Drama]}
+Movie{name='Terminal, The (2004)', genres=[Romance, Comedy, Drama]}
+Movie{name='Dear Frankie (2004)', genres=[Romance, Drama]}
+Movie{name='Notebook, The (2004)', genres=[Romance, Drama]}
+Movie{name='Two Brothers (Deux frères) (2004)', genres=[Adventure, Children, Drama]}
+Movie{name='De-Lovely (2004)', genres=[Musical, Drama]}
+Movie{name='Bob & Carol & Ted & Alice (1969)', genres=[Comedy, Drama]}
+Movie{name='Littlest Rebel, The (1935)', genres=[Children, Drama]}
+Movie{name='Happenstance (Battement d'ailes du papillon, Le) (2001)', genres=[Comedy, Drama]}
+Movie{name='Pirates of Silicon Valley (1999)', genres=[Drama, Documentary]}
+Movie{name='Clock, The (1945)', genres=[Adventure, Romance, Drama]}
+Movie{name='Leave Her to Heaven (1945)', genres=[Film-Noir, Drama]}
+Movie{name='Winter War (Talvisota) (1989)', genres=[War, Drama]}
+Movie{name='Philadelphia Experiment, The (1984)', genres=[Adventure, Sci-Fi, Drama]}
+Movie{name='Angels with Dirty Faces (1938)', genres=[Film-Noir, Crime, Thriller, Drama]}
+Movie{name='Tokyo Godfathers (2003)', genres=[Adventure, Animation, Drama]}
+Movie{name='Lassie Come Home (1943)', genres=[Adventure, Children, Drama]}
+Movie{name='Butterfield 8 (1960)', genres=[Drama]}
+Movie{name='Johnny Guitar (1954)', genres=[Western, Drama]}
+Movie{name='Exterminating Angel, The (Ángel exterminador, El) (1962)', genres=[Fantasy, Comedy, Mystery, Drama]}
+Movie{name='Before Sunset (2004)', genres=[Romance, Drama]}
+Movie{name='King Arthur (2004)', genres=[Action, Adventure, War, Drama]}
+Movie{name='Maria Full of Grace (Maria, Llena eres de gracia) (2004)', genres=[Crime, Drama]}
+Movie{name='Long Day's Journey Into Night (1962)', genres=[Drama]}
+Movie{name='Short Film About Killing, A (Krótki film o zabijaniu) (1988)', genres=[Crime, Drama]}
+Movie{name='How the West Was Won (1962)', genres=[Western, Adventure, Drama]}
+Movie{name='A Home at the End of the World (2004)', genres=[Romance, Drama]}
+Movie{name='Battle Hymn (1957)', genres=[Drama]}
+Movie{name='Enemy Below, The (1957)', genres=[Action, War, Drama]}
+Movie{name='Man Escaped, A (Un  condamné à mort s'est échappé ou Le vent souffle où il veut) (1956)', genres=[Adventure, Drama]}
+Movie{name='Slaughterhouse-Five (1972)', genres=[War, Sci-Fi, Comedy, Drama]}
+Movie{name='Dancing in September (2000)', genres=[Drama]}
+Movie{name='Snake Pit, The (1948)', genres=[Drama]}
+Movie{name='Leopard, The (Gattopardo, Il) (1963)', genres=[War, Drama]}
+Movie{name='Goodbye, Columbus (1969)', genres=[Romance, Comedy, Drama]}
+Movie{name='Day of the Locust, The (1975)', genres=[Drama]}
+Movie{name='To End All Wars (2001)', genres=[Action, War, Drama]}
+Movie{name='World of Suzie Wong, The (1960)', genres=[Romance, Drama]}
+Movie{name='Gun Crazy (a.k.a. Deadly Is the Female) (1949)', genres=[Film-Noir, Crime, Drama]}
+Movie{name='Set-Up, The (1949)', genres=[Film-Noir, Romance, Drama]}
+Movie{name='Prime of Miss Jean Brodie, The (1969)', genres=[Drama]}
+Movie{name='Three Lives of Thomasina, The (1964)', genres=[Children, Drama]}
+Movie{name='Black Angel (1946)', genres=[Film-Noir, Mystery, Drama]}
+Movie{name='Criss Cross (1949)', genres=[Film-Noir, Crime, Drama]}
+Movie{name='Spy Who Came in from the Cold, The (1965)', genres=[Thriller, Drama]}
+Movie{name='Roadkill (a.k.a. Roadkill: Move or Die) (1989)', genres=[Drama]}
+Movie{name='Bon Voyage (2003)', genres=[Comedy, Drama]}
+Movie{name='Village, The (2004)', genres=[Thriller, Mystery, Drama]}
+Movie{name='Garden State (2004)', genres=[Romance, Comedy, Drama]}
+Movie{name='Early Summer (Bakushû) (1951)', genres=[Drama]}
+Movie{name='Musa the Warrior (Musa) (2001)', genres=[Action, Adventure, War, Drama]}
+Movie{name='Collateral (2004)', genres=[Crime, Action, Thriller, Drama]}
+Movie{name='We Don't Live Here Anymore (2004)', genres=[Drama]}
+Movie{name='Dead Ringer (1964)', genres=[Thriller, Drama]}
+Movie{name='Anacondas: The Hunt for the Blood Orchid (2004)', genres=[Adventure, Horror, Sci-Fi, Thriller, Drama]}
+Movie{name='Warriors of Heaven and Earth (Tian di ying xiong) (2003)', genres=[Action, Adventure, Drama]}
+Movie{name='Vanity Fair (2004)', genres=[Romance, Drama]}
+Movie{name='Paparazzi (2004)', genres=[Thriller, Drama]}
+Movie{name='Wicker Park (2004)', genres=[Romance, Thriller, Drama]}
+Movie{name='Alice Doesn't Live Here Anymore (1974)', genres=[Romance, Drama]}
+Movie{name='Who's That Knocking at My Door? (1967)', genres=[Drama]}
+Movie{name='Vitelloni, I (a.k.a. The Young and the Passionate) (1953)', genres=[Drama]}
+Movie{name='Flipper (1963)', genres=[Adventure, Children, Drama]}
+Movie{name='Small Circle of Friends, A (1980)', genres=[Drama]}
+Movie{name='Lilith (1964)', genres=[Drama]}
+Movie{name='Cellular (2004)', genres=[Crime, Action, Thriller, Mystery, Drama]}
+Movie{name='Mr. 3000 (2004)', genres=[Comedy, Drama]}
+Movie{name='Forgotten, The (2004)', genres=[Sci-Fi, Thriller, Mystery, Drama]}
+Movie{name='Motorcycle Diaries, The (Diarios de motocicleta) (2004)', genres=[Adventure, Drama]}
+Movie{name='Mask (1985)', genres=[Drama]}
+Movie{name='Boston Strangler, The (1968)', genres=[Crime, Thriller, Mystery, Drama]}
+Movie{name='Hardcore (1979)', genres=[Drama]}
+Movie{name='Ladder 49 (2004)', genres=[Action, Thriller, Drama]}
+Movie{name='Primer (2004)', genres=[Sci-Fi, Drama]}
+Movie{name='Stage Beauty (2004)', genres=[Drama]}
+Movie{name='Eulogy (2004)', genres=[Crime, Comedy, Drama]}
+Movie{name='Country Girl, The (1954)', genres=[Drama]}
+Movie{name='Rose Tattoo, The (1955)', genres=[Romance, Drama]}
+Movie{name='Tess (1979)', genres=[Romance, Drama]}
+Movie{name='Cannonball (1976)', genres=[Action, Comedy, Drama]}
+Movie{name='Black Beauty (1971)', genres=[Children, Drama]}
+Movie{name='Decline of the American Empire, The (Déclin de l'empire américain, Le) (1986)', genres=[Comedy, Drama]}
+Movie{name='Friday Night Lights (2004)', genres=[Action, Drama]}
+Movie{name='Being Julia (2004)', genres=[Comedy, Drama]}
+Movie{name='Alfie (2004)', genres=[Romance, Comedy, Drama]}
+Movie{name='Sideways (2004)', genres=[Romance, Comedy, Drama]}
+Movie{name='The Machinist (2004)', genres=[Thriller, Mystery, Drama]}
+Movie{name='Vera Drake (2004)', genres=[Drama]}
+Movie{name='Undertow (2004)', genres=[Crime, Thriller, Drama]}
+Movie{name='Ray (2004)', genres=[Drama]}
+Movie{name='It's All About Love (2003)', genres=[Romance, Sci-Fi, Thriller, Drama]}
+Movie{name='Callas Forever (2002)', genres=[Drama]}
+Movie{name='Kinsey (2004)', genres=[Drama]}
+Movie{name='Bridget Jones: The Edge of Reason (2004)', genres=[Romance, Comedy, Drama]}
+Movie{name='Finding Neverland (2004)', genres=[Drama]}
+Movie{name='National Treasure (2004)', genres=[Action, Adventure, Thriller, Mystery, Drama]}
+Movie{name='Bad Education (La mala educación) (2004)', genres=[Thriller, Drama]}
+Movie{name='Alexander (2004)', genres=[Action, Adventure, War, Drama]}
+Movie{name='Closer (2004)', genres=[Romance, Drama]}
+Movie{name='I Am David (2003)', genres=[Drama]}
+Movie{name='House of Flying Daggers (Shi mian mai fu) (2004)', genres=[Action, Romance, Drama]}
+Movie{name='Fire in the Sky (1993)', genres=[Sci-Fi, Mystery, Drama]}
+Movie{name='Love Me If You Dare (Jeux d'enfants) (2003)', genres=[Romance, Drama]}
+Movie{name='Ruby Gentry (1952)', genres=[Drama]}
+Movie{name='Greed (1924)', genres=[Drama]}
+Movie{name='Phantom of the Opera, The (1925)', genres=[Horror, Drama]}
+Movie{name='Pandora's Box (Büchse der Pandora, Die) (1929)', genres=[Drama]}
+Movie{name='Cameraman, The (1928)', genres=[Romance, Comedy, Drama]}
+Movie{name='Little Caesar (1931)', genres=[Crime, Drama]}
+Movie{name='Golden Age, The (Âge d'Or, L') (1930)', genres=[Romance, Comedy, Drama]}
+Movie{name='Scarface (1932)', genres=[Crime, Drama]}
+Movie{name='I Was Born, But... (a.k.a. Children of Tokyo) (Otona no miru ehon - Umarete wa mita keredo) (1932)', genres=[Comedy, Drama]}
+Movie{name='Dinner at Eight (1933)', genres=[Romance, Comedy, Drama]}
+Movie{name='Atalante, L' (1934)', genres=[Romance, Comedy, Drama]}
+Movie{name='Fury (1936)', genres=[Film-Noir, Drama]}
+Movie{name='Petrified Forest, The (1936)', genres=[Crime, Romance, Drama]}
+Movie{name='Nothing Sacred (1937)', genres=[Romance, Comedy, Drama]}
+Movie{name='Stage Door (1937)', genres=[Drama]}
+Movie{name='Holiday (1938)', genres=[Romance, Comedy, Drama]}
+Movie{name='Wuthering Heights (1939)', genres=[Romance, Drama]}
+Movie{name='Letter, The (1940)', genres=[Film-Noir, Drama]}
+Movie{name='Hard Way, The (1943)', genres=[Drama]}
+Movie{name='Random Harvest (1942)', genres=[Romance, Drama]}
+Movie{name='Day of Wrath (Vredens dag) (1943)', genres=[Drama]}
+Movie{name='Curse of the Cat People, The (1944)', genres=[Drama]}
+Movie{name='Henry V (Chronicle History of King Henry the Fift with His Battell Fought at Agincourt in France, The) (1944)', genres=[War, Drama]}
+Movie{name='Ministry of Fear (1944)', genres=[Film-Noir, Thriller, Drama]}
+Movie{name='Mr. Skeffington (1944)', genres=[Romance, Drama]}
+Movie{name='They Were Expendable (1945)', genres=[War, Drama]}
+Movie{name='Blue Dahlia, The (1946)', genres=[Film-Noir, Crime, Thriller, Mystery, Drama]}
+Movie{name='Stranger, The (1946)', genres=[Film-Noir, Thriller, Drama]}
+Movie{name='Nightmare Alley (1947)', genres=[Film-Noir, Drama]}
+Movie{name='Odd Man Out (1947)', genres=[Film-Noir, Crime, Thriller, Drama]}
+Movie{name='Lady from Shanghai, The (1947)', genres=[Film-Noir, Mystery, Drama]}
+Movie{name='Letter from an Unknown Woman (1948)', genres=[Romance, Drama]}
+Movie{name='Letter to Three Wives, A (1949)', genres=[Comedy, Drama]}
+Movie{name='Carrie (1952)', genres=[Romance, Drama]}
+Movie{name='Clash by Night (1952)', genres=[Film-Noir, Drama]}
+Movie{name='Magnificent Obsession (1954)', genres=[Romance, Drama]}
+Movie{name='Samurai I: Musashi Miyamoto (Miyamoto Musashi) (1954)', genres=[Action, Adventure, Drama]}
+Movie{name='Star Is Born, A (1954)', genres=[Musical, Drama]}
+Movie{name='The Wild One (1953)', genres=[Drama]}
+Movie{name='Samurai II: Duel at Ichijoji Temple (Zoku Miyamoto Musashi: Ichijôji no kettô) (1955)', genres=[Action, Adventure, Drama]}
+Movie{name='Unknown Soldier, The (Tuntematon sotilas) (1955)', genres=[War, Drama]}
+Movie{name='Burmese Harp, The (Biruma no tategoto) (1956)', genres=[War, Drama]}
+Movie{name='Samurai III: Duel on Ganryu Island (a.k.a. Bushido) (Miyamoto Musashi kanketsuhen: kettô Ganryûjima) (1956)', genres=[Action, Adventure, Drama]}
+Movie{name='Spirit of St. Louis, The (1957)', genres=[Adventure, Drama]}
+Movie{name='Pickpocket (1959)', genres=[Crime, Drama]}
+Movie{name='David and Lisa (1962)', genres=[Drama]}
+Movie{name='Harakiri (Seppuku) (1962)', genres=[Drama]}
+Movie{name='Mutiny on the Bounty (1962)', genres=[Adventure, Romance, Drama]}
+Movie{name='Occurrence at Owl Creek Bridge, An (La rivière du hibou) (1962)', genres=[War, Drama]}
+Movie{name='Wonderful World of the Brothers Grimm, The (1962)', genres=[Adventure, Animation, Fantasy, Romance, Musical, Comedy, Children, Drama]}
+Movie{name='Eclisse, L' (Eclipse) (1962)', genres=[Drama]}
+Movie{name='Becket (1964)', genres=[Drama]}
+Movie{name='Killers, The (1964)', genres=[Film-Noir, Crime, Action, Thriller, Drama]}
+Movie{name='Onibaba (1964)', genres=[War, Horror, Drama]}
+Movie{name='Battle of Algiers, The (La battaglia di Algeri) (1966)', genres=[War, Drama]}
+Movie{name='Thousand Clowns, A (1965)', genres=[Romance, Comedy, Drama]}
+Movie{name='Andrei Rublev (Andrey Rublyov) (1969)', genres=[War, Drama]}
+Movie{name='Au Hasard Balthazar (1966)', genres=[Crime, Drama]}
+Movie{name='Point Blank (1967)', genres=[Crime, Action, Thriller, Drama]}
+Movie{name='Titicut Follies (1967)', genres=[Drama, Documentary]}
+Movie{name='Two for the Road (1967)', genres=[Romance, Comedy, Drama]}
+Movie{name='Up the Down Staircase (1967)', genres=[Drama]}
+Movie{name='Heart Is a Lonely Hunter, The (1968)', genres=[Drama]}
+Movie{name='Alice's Restaurant (1969)', genres=[Comedy, Drama]}
+Movie{name='My Night At Maud's (Ma Nuit Chez Maud) (1969)', genres=[Romance, Comedy, Drama]}
+Movie{name='Swedish Love Story, A (Kärlekshistoria, En) (1970)', genres=[Romance, Drama]}
+Movie{name='Landlord, The (1970)', genres=[Comedy, Drama]}
+Movie{name='Performance (1970)', genres=[Crime, Thriller, Drama]}
+Movie{name='The Devils (1971)', genres=[Drama]}
+Movie{name='Mon Oncle Antoine (1971)', genres=[Drama]}
+Movie{name='Lady Sings the Blues (1972)', genres=[Musical, Drama]}
+Movie{name='Scarecrow (1973)', genres=[Drama]}
+Movie{name='California Split (1974)', genres=[Comedy, Drama]}
+Movie{name='Emmanuelle (1974)', genres=[Romance, Drama]}
+Movie{name='Phantom of Liberty, The (Fantôme de la liberté, Le) (1974)', genres=[Comedy, Drama]}
+Movie{name='Flesh for Frankenstein (a.k.a. Andy Warhol's Frankenstein) (1973)', genres=[Horror, Sci-Fi, Drama]}
+Movie{name='Gone in 60 Seconds (1974)', genres=[Crime, Action, Drama]}
+Movie{name='Harry and Tonto (1974)', genres=[Comedy, Drama]}
+Movie{name='Holy Mountain, The (Montaña sagrada, La) (1973)', genres=[Drama]}
+Movie{name='Story of Adele H., The (Histoire d'Adèle H., L') (1975)', genres=[Drama]}
+Movie{name='Passenger, The (Professione: reporter) (1975)', genres=[Drama]}
+Movie{name='The Missouri Breaks (1976)', genres=[Western, Drama]}
+Movie{name='New York, New York (1977)', genres=[Romance, Musical, Drama]}
+Movie{name='Turning Point, The (1977)', genres=[Romance, Drama]}
+Movie{name='In Praise of Older Women (1978)', genres=[Drama]}
+Movie{name='Wedding, A (1978)', genres=[Comedy, Drama]}
+Movie{name='Hair (1979)', genres=[Musical, Comedy, Drama]}
+Movie{name='Luna, La (1979)', genres=[Drama]}
+Movie{name='Bad Boys (1983)', genres=[Crime, Thriller, Drama]}
+Movie{name='Blue Thunder (1983)', genres=[Crime, Action, Drama]}
+Movie{name='Day After, The (1983)', genres=[Sci-Fi, Drama]}
+Movie{name='Norte, El (1984)', genres=[Adventure, Drama]}
+Movie{name='Rumble Fish (1983)', genres=[Drama]}
+Movie{name='Star 80 (1983)', genres=[Drama]}
+Movie{name='Suburbia (1984)', genres=[Drama]}
+Movie{name='Electric Dreams (1984)', genres=[Romance, Sci-Fi, Comedy, Drama]}
+Movie{name='Anne of Green Gables (1985)', genres=[Children, Drama]}
+Movie{name='Quiet Earth, The (1985)', genres=[Sci-Fi, Mystery, Drama]}
+Movie{name='White Nights (1985)', genres=[Drama]}
+Movie{name=''Round Midnight (1986)', genres=[Musical, Drama]}
+Movie{name='Ginger and Fred (Ginger e Fred) (1986)', genres=[Comedy, Drama]}
+Movie{name='Sacrifice, The (Offret - Sacraficatio) (1986)', genres=[Drama]}
+Movie{name='Better Tomorrow, A (Ying hung boon sik) (1986)', genres=[Crime, Thriller, Drama]}
+Movie{name='Decalogue, The (Dekalog) (1989)', genres=[Crime, Romance, Drama]}
+Movie{name='Law of Desire (Ley del deseo, La) (1987)', genres=[Romance, Comedy, Drama]}
+Movie{name='Bourne Identity, The (1988)', genres=[Action, Adventure, Thriller, Mystery, Drama]}
+Movie{name='Dominick and Eugene (1988)', genres=[Drama]}
+Movie{name='Lonesome Dove (1989)', genres=[Western, Adventure, Drama]}
+Movie{name='Kiki's Delivery Service (Majo no takkyûbin) (1989)', genres=[Adventure, Animation, Fantasy, Children, Drama]}
+Movie{name='Havana (1990)', genres=[Drama]}
+Movie{name='It (1990)', genres=[Fantasy, Horror, Thriller, Mystery, Drama]}
+Movie{name='Ju Dou (1990)', genres=[Drama]}
+Movie{name='Krays, The (1990)', genres=[Drama]}
+Movie{name='Patlabor: The Movie (Kidô keisatsu patorebâ: The Movie) (1989)', genres=[Film-Noir, Crime, Action, Animation, Sci-Fi, Thriller, Mystery, Drama]}
+Movie{name='Reflecting Skin, The (1990)', genres=[Horror, Thriller, Drama]}
+Movie{name='State of Grace (1990)', genres=[Crime, Thriller, Drama]}
+Movie{name='Homicide (1991)', genres=[Crime, Thriller, Drama]}
+Movie{name='Light Sleeper (1992)', genres=[Crime, Drama]}
+Movie{name='Prospero's Books (1991)', genres=[Fantasy, Drama]}
+Movie{name='Quigley Down Under (1990)', genres=[Western, Adventure, Drama]}
+Movie{name='Mambo Kings, The (1992)', genres=[Musical, Drama]}
+Movie{name='Night and the City (1992)', genres=[Crime, Drama]}
+Movie{name='Story of Qiu Ju, The (Qiu Ju da guan si) (1992)', genres=[Comedy, Drama]}
+Movie{name='Shining Through (1992)', genres=[Romance, War, Thriller, Drama]}
+Movie{name='Baby of Mâcon, The (a.k.a. The Baby of Macon) (1993)', genres=[Drama]}
+Movie{name='Bad Boy Bubby (1993)', genres=[Drama]}
+Movie{name='Barbarians at the Gate (1993)', genres=[Drama]}
+Movie{name='Snapper, The (1993)', genres=[Comedy, Drama]}
+Movie{name='Sonatine (Sonachine) (1993)', genres=[Crime, Action, Comedy, Drama]}
+Movie{name='Tai Chi Master (Twin Warriors) (Tai ji: Zhang San Feng) (1993)', genres=[Action, Adventure, Comedy, Drama]}
+Movie{name='71 Fragments of a Chronology of Chance (71 Fragmente einer Chronologie des Zufalls) (1994)', genres=[Drama]}
+Movie{name='Fist of Legend (Jing wu ying xiong) (1994)', genres=[Action, Drama]}
+Movie{name='Whisper of the Heart (Mimi wo sumaseba) (1995)', genres=[Animation, Romance, Drama]}
+Movie{name='Tromeo and Juliet (1996)', genres=[Comedy, Drama]}
+Movie{name='Gummo (1997)', genres=[Drama]}
+Movie{name='From the Earth to the Moon (1998)', genres=[Action, Thriller, Drama, Documentary]}
+Movie{name='Interview, The (1998)', genres=[Crime, Thriller, Mystery, Drama]}
+Movie{name='Gia (1998)', genres=[Romance, Drama]}
+Movie{name='Lady Snowblood (Shurayukihime) (1973)', genres=[Crime, Action, Thriller, Drama]}
+Movie{name='Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni) (1997)', genres=[Action, Animation, Fantasy, Sci-Fi, Drama]}
+Movie{name='Wind Will Carry Us, The (Bad ma ra khahad bord) (1999)', genres=[Drama]}
+Movie{name='2046 (2004)', genres=[Fantasy, Romance, Sci-Fi, Drama]}
+Movie{name='Audition (Ôdishon) (1999)', genres=[Romance, Horror, Thriller, Mystery, Drama]}
+Movie{name='The Hole (2001)', genres=[Horror, Thriller, Mystery, Drama]}
+Movie{name='61* (2001)', genres=[Drama]}
+Movie{name='Tunnel, The (Tunnel, Der) (2001)', genres=[Action, Thriller, Drama]}
+Movie{name='Joint Security Area (Gongdong gyeongbi guyeok JSA) (2000)', genres=[Crime, War, Thriller, Mystery, Drama]}
+Movie{name='Conspiracy (2001)', genres=[War, Drama]}
+Movie{name='Jalla! Jalla! (2000)', genres=[Romance, Comedy, Drama]}
+Movie{name='Sympathy for Mr. Vengeance (Boksuneun naui geot) (2002)', genres=[Crime, Drama]}
+Movie{name='Battlestar Galactica (2003)', genres=[War, Sci-Fi, Drama]}
+Movie{name='Soldier's Girl (2003)', genres=[Drama]}
+Movie{name='Bright Young Things (2003)', genres=[Comedy, Drama]}
+Movie{name='Animatrix, The (2003)', genres=[Action, Animation, Sci-Fi, Drama]}
+Movie{name='Brown Bunny, The (2003)', genres=[Drama]}
+Movie{name='11:14 (2003)', genres=[Crime, Comedy, Thriller, Mystery, Drama]}
+Movie{name='Evil (Ondskan) (2003)', genres=[Drama]}
+Movie{name='Battle Royale 2: Requiem (Batoru rowaiaru II: Chinkonka) (2003)', genres=[Action, War, Thriller, Drama]}
+Movie{name='Very Long Engagement, A (Un long dimanche de fiançailles) (2004)', genres=[Romance, War, Mystery, Drama]}
+Movie{name='Last Life in the Universe (Ruang rak noi nid mahasan) (2003)', genres=[Romance, Drama]}
+Movie{name='Hitler: The Rise of Evil (2003)', genres=[Drama]}
+Movie{name='Head-On (Gegen die Wand) (2004)', genres=[Romance, Drama]}
+Movie{name='Ghost in the Shell 2: Innocence (a.k.a. Innocence) (Inosensu) (2004)', genres=[Action, Animation, Sci-Fi, Thriller, Drama]}
+Movie{name='Twilight Samurai, The (Tasogare Seibei) (2002)', genres=[Romance, Drama]}
+Movie{name=''Salem's Lot (2004)', genres=[Horror, Thriller, Mystery, Drama]}
+Movie{name='Intimate Strangers (Confidences trop intimes) (2004)', genres=[Drama]}
+Movie{name='Lost Embrace (Abrazo partido, El) (2004)', genres=[Comedy, Drama]}
+Movie{name='Jacket, The (2005)', genres=[Sci-Fi, Thriller, Mystery, Drama]}
+Movie{name='Millions (2004)', genres=[Crime, Fantasy, Comedy, Children, Drama]}
+Movie{name='Saddest Music in the World, The (2003)', genres=[Fantasy, Romance, Musical, Comedy, Drama]}
+Movie{name='Infernal Affairs 2 (Mou gaan dou II) (2003)', genres=[Crime, Action, Thriller, Drama]}
+Movie{name='Sea Inside, The (Mar adentro) (2004)', genres=[Drama]}
+Movie{name='Spanglish (2004)', genres=[Romance, Comedy, Drama]}
+Movie{name='Chorus, The (Choristes, Les) (2004)', genres=[Drama]}
+Movie{name='Saints and Soldiers (2003)', genres=[Action, Adventure, War, Drama]}
+Movie{name='Interpreter, The (2005)', genres=[Thriller, Drama]}
+Movie{name='Open Water (2003)', genres=[Thriller, Drama]}
+Movie{name='Touch of Pink (2004)', genres=[Romance, Comedy, Drama]}
+Movie{name='Layer Cake (2004)', genres=[Crime, Thriller, Drama]}
+Movie{name='Return, The (Vozvrashcheniye) (2003)', genres=[Drama]}
+Movie{name='Mean Creek (2004)', genres=[Thriller, Drama]}
+Movie{name='Ring Two, The (2005)', genres=[Horror, Thriller, Mystery, Drama]}
+Movie{name='Fond Kiss, A (Ae Fond Kiss...) (2004)', genres=[Romance, Drama]}
+Movie{name='As it is in Heaven (Så som i himmelen) (2004)', genres=[Romance, Musical, Drama]}
+Movie{name='Football Factory, The (2004)', genres=[Action, Drama]}
+Movie{name='Tae Guk Gi: The Brotherhood of War (Taegukgi hwinalrimyeo) (2004)', genres=[Action, War, Drama]}
+Movie{name='Something the Lord Made (2004)', genres=[Drama]}
+Movie{name='Redemption: The Stan Tookie Williams Story (2004)', genres=[Crime, Drama, Documentary]}
+Movie{name='Schultze Gets the Blues (2003)', genres=[Comedy, Drama]}
+Movie{name='What the #$*! Do We Know!? (a.k.a. What the Bleep Do We Know!?) (2004)', genres=[Comedy, Drama, Documentary]}
+Movie{name='Scanner Darkly, A (2006)', genres=[Animation, Sci-Fi, Thriller, Mystery, Drama]}
+Movie{name='Million Dollar Baby (2004)', genres=[Drama]}
+Movie{name='Narrow Margin, The (1952)', genres=[Film-Noir, Crime, Drama]}
+Movie{name='Vincent & Theo (1990)', genres=[Drama]}
+Movie{name='Gozu (Gokudô kyôfu dai-gekijô: Gozu) (2003)', genres=[Crime, Horror, Comedy, Mystery, Drama]}
+Movie{name='Hotel Rwanda (2004)', genres=[War, Drama]}
+Movie{name='3-Iron (Bin-jip) (2004)', genres=[Romance, Drama]}
+Movie{name='Aviator, The (2004)', genres=[Drama]}
+Movie{name='Phantom of the Opera, The (2004)', genres=[Romance, Musical, Drama]}
+Movie{name='Beyond the Sea (2004)', genres=[Musical, Drama]}
+Movie{name='Woodsman, The (2004)', genres=[Drama]}
+Movie{name='In Good Company (2004)', genres=[Comedy, Drama]}
+Movie{name='Assassination of Richard Nixon, The (2004)', genres=[Crime, Thriller, Drama]}
+Movie{name='Love Song for Bobby Long, A (2004)', genres=[Drama]}
+Movie{name='Merchant of Venice, The (2004)', genres=[Drama]}
+Movie{name='White Noise (2005)', genres=[Horror, Sci-Fi, Thriller, Mystery, Drama]}
+Movie{name='Upside of Anger, The (2005)', genres=[Romance, Comedy, Drama]}
+Movie{name='Phantom of the Opera, The (1989)', genres=[Horror, Musical, Drama]}
+Movie{name='Testament (1983)', genres=[Drama]}
+Movie{name='Stander (2003)', genres=[Crime, Action, Drama]}
+Movie{name='Hester Street (1975)', genres=[Drama]}
+Movie{name='Bigamist, The (1953)', genres=[Drama]}
+Movie{name='Imaginary Heroes (2004)', genres=[Comedy, Drama]}
+Movie{name='Sergeant York (1941)', genres=[War, Drama]}
+Movie{name='Life and Death of Peter Sellers, The (2004)', genres=[Comedy, Drama]}
+Movie{name='Elektra (2005)', genres=[Crime, Action, Adventure, Drama]}
+Movie{name='Coach Carter (2005)', genres=[Drama]}
+Movie{name='Shivers (They Came from Within) (1975)', genres=[Horror, Sci-Fi, Drama]}
+Movie{name='Star Is Born, A (1976)', genres=[Romance, Musical, Drama]}
+Movie{name='Memories of Murder (Salinui chueok) (2003)', genres=[Crime, Thriller, Mystery, Drama]}
+Movie{name='Hobson's Choice (1954)', genres=[Romance, Comedy, Drama]}
+Movie{name='Summer Storm (Sommersturm) (2004)', genres=[Romance, Drama]}
+Movie{name='Downfall (Untergang, Der) (2004)', genres=[War, Drama]}
+Movie{name='White Sound, The (Das weiße Rauschen) (2001)', genres=[Drama]}
+Movie{name='Assault on Precinct 13 (2005)', genres=[Crime, Action, Thriller, Drama]}
+Movie{name='Boogeyman (2005)', genres=[Horror, Thriller, Mystery, Drama]}
+Movie{name='Rory O'Shea Was Here (Inside I'm Dancing) (2004)', genres=[Drama]}
+Movie{name='Nobody Knows (Dare mo shiranai) (2004)', genres=[Drama]}
+Movie{name='Employee of the Month (2004)', genres=[Comedy, Drama]}
+Movie{name='Salem's Lot (1979)', genres=[Horror, Thriller, Mystery, Drama]}
+Movie{name='Marriage of Maria Braun, The (Ehe der Maria Braun, Die) (1979)', genres=[Drama]}
+Movie{name='Bitter Tears of Petra von Kant, The (bitteren Tränen der Petra von Kant, Die) (1972)', genres=[Drama]}
+Movie{name='Fata Morgana (1971)', genres=[Sci-Fi, Drama, Documentary]}
+Movie{name='Steamboy (Suchîmubôi) (2004)', genres=[Action, Animation, Sci-Fi, Drama]}
+Movie{name='Because of Winn-Dixie (2005)', genres=[Comedy, Children, Drama]}
+Movie{name='Zelary (2003)', genres=[Romance, Drama]}
+Movie{name='Seven-Per-Cent Solution, The (1976)', genres=[Crime, Adventure, Comedy, Thriller, Mystery, Drama]}
+Movie{name='Masculin Féminin (1966)', genres=[Drama]}
+Movie{name='Control (Kontroll) (2003)', genres=[Crime, Comedy, Mystery, Drama]}
+Movie{name='5x2 (2004)', genres=[Romance, Drama]}
+Movie{name='Bed & Board (Domicile conjugal) (1970)', genres=[Comedy, Drama]}
+Movie{name='Germany Year Zero (Germania anno zero) (Deutschland im Jahre Null) (1948)', genres=[War, Drama]}
+Movie{name='Walk on Water (2004)', genres=[Thriller, Drama]}
+Movie{name='Hostage (2005)', genres=[Crime, Action, Thriller, Drama]}
+Movie{name='Godzilla vs. Mechagodzilla II (Gojira VS Mekagojira) (1993)', genres=[Action, Sci-Fi, Drama]}
+Movie{name='Agony and the Ecstasy, The (1965)', genres=[Drama]}
+Movie{name='Chronicles (Crónicas) (2004)', genres=[Crime, Drama]}
+Movie{name='Green Berets, The (1968)', genres=[Action, War, Drama]}
+Movie{name='Brian's Song (1971)', genres=[Drama]}
+Movie{name='Thriller: A Cruel Picture (Thriller - en grym film) (1974)', genres=[Crime, Action, Thriller, Drama]}
+Movie{name='Julia (1977)', genres=[Drama]}
+Movie{name='The 3 Penny Opera (1931)', genres=[Musical, Comedy, Drama]}
+Movie{name='Ice Princess (2005)', genres=[Comedy, Children, Drama]}
+Movie{name='Melinda and Melinda (2004)', genres=[Comedy, Drama]}
+Movie{name='Stella Dallas (1937)', genres=[Drama]}
+Movie{name='Panic in the Streets (1950)', genres=[Film-Noir, Crime, Thriller, Drama]}
+Movie{name='Call Northside 777 (1948)', genres=[Film-Noir, Crime, Drama]}
+Movie{name='Sword of Doom, The (Dai-bosatsu tôge) (1966)', genres=[Action, Drama]}
+Movie{name='Carmen (1983)', genres=[Romance, Musical, Drama]}
+Movie{name='Pom Poko (a.k.a. Raccoon War, The) (Heisei tanuki gassen pompoko) (1994)', genres=[Animation, Fantasy, Comedy, Drama]}
+Movie{name='Knockin' on Heaven's Door (1997)', genres=[Crime, Action, Comedy, Drama]}
+Movie{name='City of Hope (1991)', genres=[Drama]}
+Movie{name='We're No Angels (1955)', genres=[Crime, Comedy, Drama]}
+Movie{name='Walker (1987)', genres=[Western, Adventure, War, Drama]}
+Movie{name='The Earrings of Madame de... (1953)', genres=[Romance, Drama]}
+Movie{name='Harvie Krumpet (2003)', genres=[Animation, Comedy, Drama]}
+Movie{name='Look at Me (Comme une image) (2004)', genres=[Romance, Comedy, Drama]}
+Movie{name='Little Girl Who Lives Down the Lane, The (1976)', genres=[Thriller, Mystery, Drama]}
+Movie{name='Arabian Nights (Il fiore delle mille e una notte) (1974)', genres=[Fantasy, Comedy, Drama]}
+Movie{name='Ringu 0: Bâsudei (2000)', genres=[Horror, Thriller, Drama]}
+Movie{name='Satan's Brew (Satansbraten) (1976)', genres=[Comedy, Drama]}
+Movie{name='Waterloo Bridge (1940)', genres=[Romance, War, Drama]}
+Movie{name='Ivan's Childhood (a.k.a. My Name is Ivan) (Ivanovo detstvo) (1962)', genres=[War, Drama]}
+Movie{name='Carrie (2002)', genres=[Horror, Thriller, Drama]}
+Movie{name='Life Is Sweet (1990)', genres=[Comedy, Drama]}
+Movie{name='Dark Habits (Entre tinieblas) (1983)', genres=[Comedy, Drama]}
+Movie{name='Before the Fall (NaPolA - Elite für den Führer) (2004)', genres=[War, Drama]}
+Movie{name='Palindromes (2004)', genres=[Adventure, Comedy, Drama]}
+Movie{name='Lot Like Love, A (2005)', genres=[Romance, Comedy, Drama]}
+Movie{name='Kingdom of Heaven (2005)', genres=[Action, Romance, War, Drama]}
+Movie{name='Crash (2004)', genres=[Crime, Drama]}
+Movie{name='Mysterious Skin (2004)', genres=[Mystery, Drama]}
+Movie{name='Off the Map (2003)', genres=[Comedy, Drama]}
+Movie{name='25 Watts (2001)', genres=[Comedy, Drama]}
+Movie{name='Unleashed (Danny the Dog) (2005)', genres=[Crime, Action, Thriller, Drama]}
+Movie{name='Snow Walker, The (2003)', genres=[Adventure, Drama]}
+Movie{name='Bad Guy (Nabbeun namja) (2001)', genres=[Drama]}
+Movie{name='Somersault (2004)', genres=[Drama]}
+Movie{name='Longest Yard, The (2005)', genres=[Comedy, Drama]}
+Movie{name='Cinderella Man (2005)', genres=[Romance, Drama]}
+Movie{name='Sisterhood of the Traveling Pants, The (2005)', genres=[Adventure, Comedy, Drama]}
+Movie{name='Lords of Dogtown (2005)', genres=[Action, Comedy, Drama]}
+Movie{name='Parineeta (2005)', genres=[Romance, Musical, Drama]}
+Movie{name='Innocent Voices (Voces inocentes) (2004)', genres=[War, Drama]}
+Movie{name='Anna and the King of Siam (1946)', genres=[Romance, Drama]}
+Movie{name='My Summer of Love (2004)', genres=[Romance, Drama]}
+Movie{name='Saint Ralph (2004)', genres=[Comedy, Drama]}
+Movie{name='Me and You and Everyone We Know (2005)', genres=[Comedy, Drama]}
+Movie{name='Edukators, The (Die Fetten Jahre sind vorbei) (2004)', genres=[Crime, Romance, Comedy, Drama]}
+Movie{name='Unmarried Woman, An (1978)', genres=[Romance, Comedy, Drama]}
+Movie{name='Member of the Wedding, The (1952)', genres=[Drama]}
+Movie{name='Dark Water (2005)', genres=[Horror, Thriller, Drama]}
+Movie{name='Happy Endings (2005)', genres=[Comedy, Drama]}
+Movie{name='Hustle & Flow (2005)', genres=[Crime, Drama]}
+Movie{name='Last Days (2005)', genres=[Drama]}
+Movie{name='This Is My Life (1992)', genres=[Comedy, Drama]}
+Movie{name='Broken Flowers (2005)', genres=[Comedy, Drama]}
+Movie{name='The Chumscrubber (2005)', genres=[Comedy, Drama]}
+Movie{name='Junebug (2005)', genres=[Comedy, Drama]}
+Movie{name='Skeleton Key, The (2005)', genres=[Horror, Thriller, Mystery, Drama]}
+Movie{name='Four Brothers (2005)', genres=[Crime, Action, Drama]}
+Movie{name='The Great Raid (2005)', genres=[Action, War, Drama]}
+Movie{name='Girl in the Café, The (2005)', genres=[Romance, Drama]}
+Movie{name='Prime Cut (1972)', genres=[Crime, Action, Drama]}
+Movie{name='Best of Everything, The (1959)', genres=[Romance, Drama]}
+Movie{name='Dreamchild (1985)', genres=[Fantasy, Romance, Drama]}
+Movie{name='Hidden (a.k.a. Cache) (Caché) (2005)', genres=[Thriller, Mystery, Drama]}
+Movie{name='Constant Gardener, The (2005)', genres=[Thriller, Drama]}
+Movie{name='Proof (2005)', genres=[Drama]}
+Movie{name='Lord of War (2005)', genres=[Crime, Action, War, Thriller, Drama]}
+Movie{name='Cry_Wolf (a.k.a. Cry Wolf) (2005)', genres=[Horror, Thriller, Mystery, Drama]}
+Movie{name='Everything Is Illuminated (2005)', genres=[Comedy, Drama]}
+Movie{name='In Old Chicago (1937)', genres=[Action, War, Musical, Drama]}
+Movie{name='New Police Story (Xin jing cha gu shi) (2004)', genres=[Crime, Action, Drama]}
+Movie{name='Domino (2005)', genres=[Crime, Thriller, Drama]}
+Movie{name='Unfinished Life, An (2005)', genres=[Drama]}
+Movie{name='Exorcism of Emily Rose, The (2005)', genres=[Crime, Horror, Thriller, Drama]}
+Movie{name='Flightplan (2005)', genres=[Action, Thriller, Drama]}
+Movie{name='Green Street Hooligans (a.k.a. Hooligans) (2005)', genres=[Crime, Drama]}
+Movie{name='History of Violence, A (2005)', genres=[Crime, Action, Thriller, Drama]}
+Movie{name='Oliver Twist (2005)', genres=[Drama]}
+Movie{name='Greatest Game Ever Played, The (2005)', genres=[Drama]}
+Movie{name='Capote (2005)', genres=[Crime, Drama]}
+Movie{name='Anderson Tapes, The (1971)', genres=[Crime, Thriller, Drama]}
+Movie{name='Prize Winner of Defiance Ohio, The (2005)', genres=[Drama]}
+Movie{name='MirrorMask (2005)', genres=[Adventure, Fantasy, Children, Drama]}
+Movie{name='Angels in America (2003)', genres=[Fantasy, Drama]}
+Movie{name='In Her Shoes (2005)', genres=[Comedy, Drama]}
+Movie{name='Squid and the Whale, The (2005)', genres=[Comedy, Drama]}
+Movie{name='Two for the Money (2005)', genres=[Drama]}
+Movie{name='Separate Lies (2005)', genres=[Romance, Thriller, Drama]}
+Movie{name='Brokeback Mountain (2005)', genres=[Romance, Drama]}
+Movie{name='Elizabethtown (2005)', genres=[Romance, Comedy, Drama]}
+Movie{name='North Country (2005)', genres=[Drama]}
+Movie{name='Good Night, and Good Luck. (2005)', genres=[Crime, Drama]}
+Movie{name='Dreamer: Inspired by a True Story (2005)', genres=[Children, Drama]}
+Movie{name='Proposition, The (2005)', genres=[Western, Crime, Drama]}
+Movie{name='C.S.A.: The Confederate States of America (2004)', genres=[Comedy, Drama]}
+Movie{name='Left Behind: World at War (2005)', genres=[Drama]}
+Movie{name='Shopgirl (2005)', genres=[Romance, Comedy, Drama]}
+Movie{name='Kids in America (2005)', genres=[Comedy, Drama]}
+Movie{name='Where the Truth Lies (2005)', genres=[Thriller, Drama]}
+Movie{name='Legend of Zorro, The (2005)', genres=[Western, Action, Adventure, Drama]}
+Movie{name='Weather Man, The (2005)', genres=[Comedy, Drama]}
+Movie{name='Teorema (1968)', genres=[Drama]}
+Movie{name='Life is a Miracle (Zivot je cudo) (2004)', genres=[Romance, War, Musical, Comedy, Drama]}
+Movie{name='Manderlay (2005)', genres=[Drama]}
+Movie{name='Love on the Run (Amour en fuite, L') (1979)', genres=[Romance, Comedy, Drama]}
+Movie{name='Revolver (2005)', genres=[Crime, Thriller, Drama]}
+Movie{name='Jarhead (2005)', genres=[Action, War, Drama]}
+Movie{name='Joyeux Noël (Merry Christmas) (2005)', genres=[War, Drama]}
+Movie{name='Match Factory Girl, The (Tulitikkutehtaan tyttö) (1990)', genres=[Comedy, Drama]}
+Movie{name='Get Rich or Die Tryin' (2005)', genres=[Crime, Action, Drama]}
+Movie{name='Syriana (2005)', genres=[Thriller, Drama]}
+Movie{name='One-Way Ticket to Mombasa (Menolippu Mombasaan) (2002)', genres=[Comedy, Drama]}
+Movie{name='Derailed (2005)', genres=[Thriller, Drama]}
+Movie{name='Pride & Prejudice (2005)', genres=[Romance, Drama]}
+Movie{name='Descent, The (2005)', genres=[Adventure, Horror, Thriller, Drama]}
+Movie{name='Dinner with Friends (2001)', genres=[Comedy, Drama]}
+Movie{name='Walk the Line (2005)', genres=[Romance, Musical, Drama]}
+Movie{name='Rent (2005)', genres=[Romance, Musical, Drama]}
+Movie{name='Fists in the Pocket (Pugni in tasca, I) (1965)', genres=[Drama]}
+Movie{name='C.R.A.Z.Y. (2005)', genres=[Drama]}
+Movie{name='Sounder (1972)', genres=[Drama]}
+Movie{name='Match Point (2005)', genres=[Crime, Romance, Drama]}
+Movie{name='Nazarin (Nazarín) (1959)', genres=[Drama]}
+Movie{name='Paradise Now (2005)', genres=[Crime, War, Thriller, Drama]}
+Movie{name='King Kong (2005)', genres=[Action, Adventure, Fantasy, Thriller, Drama]}
+Movie{name='Memoirs of a Geisha (2005)', genres=[Romance, Drama]}
+Movie{name='Family Stone, The (2005)', genres=[Romance, Comedy, Drama]}
+Movie{name='Kiss of Death (1947)', genres=[Film-Noir, Crime, Drama]}
+Movie{name='Matador, The (2005)', genres=[Comedy, Thriller, Drama]}
+Movie{name='Mozart and the Whale (2005)', genres=[Romance, Comedy, Drama]}
+Movie{name='Three Burials of Melquiades Estrada, The (2006)', genres=[Crime, Adventure, Drama]}
+Movie{name='Munich (2005)', genres=[Crime, Action, Thriller, Drama]}
+Movie{name='Transamerica (2005)', genres=[Adventure, Comedy, Drama]}
+Movie{name='Rumor Has It... (2005)', genres=[Romance, Comedy, Drama]}
+Movie{name='Casanova (2005)', genres=[Action, Adventure, Romance, Comedy, Drama]}
+Movie{name='Late Spring (Banshun) (1949)', genres=[Drama]}
+Movie{name='Threads (1984)', genres=[War, Sci-Fi, Drama]}
+Movie{name='New World, The (2005)', genres=[Adventure, Romance, Drama]}
+Movie{name='Lady Vengeance (Sympathy for Lady Vengeance) (Chinjeolhan geumjassi) (2005)', genres=[Crime, Thriller, Mystery, Drama]}
+Movie{name='49th Parallel (1941)', genres=[Adventure, War, Thriller, Drama]}
+Movie{name='Tristan & Isolde (2006)', genres=[Romance, Drama]}
+Movie{name='Glory Road (2006)', genres=[Drama]}
+Movie{name='Shadows of Our Forgotten Ancestors (Tini zabutykh predkiv) (1964)', genres=[Romance, Drama]}
+Movie{name='Cul-de-sac (1966)', genres=[Crime, Comedy, Thriller, Drama]}
+Movie{name='Riding Alone for Thousands of Miles (Qian li zou dan qi) (2005)', genres=[Drama]}
+Movie{name='Over the Edge (1979)', genres=[Crime, Drama]}
+Movie{name='Water (2005)', genres=[Romance, Drama]}
+Movie{name='Temptations, The (1998)', genres=[Musical, Drama]}
+Movie{name='Sophie Scholl: The Final Days (Sophie Scholl - Die letzten Tage) (2005)', genres=[War, Drama]}
+Movie{name='Matti: Hell Is for Heroes (Matti) (2006)', genres=[Comedy, Drama]}
+Movie{name='World's Fastest Indian, The (2005)', genres=[Drama]}
+Movie{name='Annapolis (2006)', genres=[Drama]}
+Movie{name='Imagine Me & You (2005)', genres=[Romance, Comedy, Drama]}
+Movie{name='Firewall (2006)', genres=[Crime, Thriller, Drama]}
+Movie{name='Tony Takitani (2004)', genres=[Drama]}
+Movie{name='London (2005)', genres=[Drama]}
+Movie{name='Eight Below (2006)', genres=[Action, Adventure, Romance, Drama]}
+Movie{name='Pulse (2006)', genres=[Action, Fantasy, Horror, Sci-Fi, Thriller, Mystery, Drama]}
+Movie{name='Stromboli (1950)', genres=[Drama]}
+Movie{name='Thank You for Smoking (2006)', genres=[Comedy, Drama]}
+Movie{name='Find Me Guilty (2006)', genres=[Crime, Comedy, Drama]}
+Movie{name='Inside Man (2006)', genres=[Crime, Thriller, Drama]}
+Movie{name='Tsotsi (2005)', genres=[Crime, Drama]}
+Movie{name='Lights in the Dusk (Laitakaupungin valot) (2006)', genres=[Crime, Drama]}
+Movie{name='Hills Have Eyes, The (2006)', genres=[Horror, Thriller, Drama]}
+Movie{name='Lives of Others, The (Das leben der Anderen) (2006)', genres=[Romance, Thriller, Drama]}
+Movie{name='Nanook of the North (1922)', genres=[Drama, Documentary]}
+Movie{name='Take the Lead (2006)', genres=[Drama]}
+Movie{name='Lucky Number Slevin (2006)', genres=[Crime, Mystery, Drama]}
+Movie{name='Volver (2006)', genres=[Comedy, Drama]}
+Movie{name='Akeelah and the Bee (2006)', genres=[Drama]}
+Movie{name='Basic Instinct 2 (2006)', genres=[Crime, Thriller, Mystery, Drama]}
+Movie{name='Brick (2005)', genres=[Film-Noir, Crime, Mystery, Drama]}
+Movie{name='Friends with Money (2006)', genres=[Romance, Comedy, Drama]}
+Movie{name='Magic (1978)', genres=[Romance, Horror, Thriller, Drama]}
+Movie{name='Hard Candy (2005)', genres=[Thriller, Drama]}
+Movie{name='Chinoise, La (1967)', genres=[Comedy, Drama]}
+Movie{name='Prairie Home Companion, A (2006)', genres=[Musical, Comedy, Drama]}
+Movie{name='Sentinel, The (2006)', genres=[Crime, Thriller, Drama]}
+Movie{name='23 (23 - Nichts ist so wie es scheint) (1998)', genres=[Thriller, Drama]}
+Movie{name='Glass Key, The (1942)', genres=[Film-Noir, Crime, Mystery, Drama]}
+Movie{name='United 93 (2006)', genres=[Crime, Drama]}
+Movie{name='Down in the Valley (2005)', genres=[Romance, Drama]}
+Movie{name='Art School Confidential (2006)', genres=[Comedy, Drama]}
+Movie{name='Da Vinci Code, The (2006)', genres=[Thriller, Mystery, Drama]}
+Movie{name='Break-Up, The (2006)', genres=[Romance, Comedy, Drama]}
+Movie{name='Twelve and Holding (2005)', genres=[Drama]}
+Movie{name='Wassup Rockers (2005)', genres=[Comedy, Drama]}
+Movie{name='Lake House, The (2006)', genres=[Fantasy, Romance, Drama]}
+Movie{name='Click (2006)', genres=[Adventure, Fantasy, Romance, Comedy, Drama]}
+Movie{name='Seventh Victim, The (1943)', genres=[Film-Noir, Horror, Mystery, Drama]}
+Movie{name='Devil Wears Prada, The (2006)', genres=[Comedy, Drama]}
+Movie{name='Lady in the Water (2006)', genres=[Fantasy, Mystery, Drama]}
+Movie{name='Marie Antoinette (2006)', genres=[Romance, Drama]}
+Movie{name='Mother and the Whore, The (Maman et la putain, La) (1973)', genres=[Drama]}
+Movie{name='High School Musical (2006)', genres=[Romance, Musical, Comedy, Children, Drama]}
+Movie{name='Jet Li's Fearless (Huo Yuan Jia) (2006)', genres=[Action, Drama]}
+Movie{name='Fast and the Furious: Tokyo Drift, The (Fast and the Furious 3, The) (2006)', genres=[Crime, Action, Thriller, Drama]}
+Movie{name='Edward II (1991)', genres=[Drama]}
+Movie{name='Road to Guantanamo, The (2006)', genres=[War, Drama]}
+Movie{name='Little Miss Sunshine (2006)', genres=[Adventure, Comedy, Drama]}
+Movie{name='Fallen Idol, The (1948)', genres=[Thriller, Mystery, Drama]}
+Movie{name='Babel (2006)', genres=[Thriller, Drama]}
+Movie{name='Army of Shadows (L'armée des ombres) (1969)', genres=[Action, War, Thriller, Drama]}
+Movie{name='End of the Spear (2005)', genres=[Drama]}
+Movie{name='World Trade Center (2006)', genres=[Drama]}
+Movie{name='Stranger than Fiction (2006)', genres=[Fantasy, Romance, Comedy, Drama]}
+Movie{name='Miami Vice (2006)', genres=[Crime, Action, Thriller, Drama]}
+Movie{name='On Dangerous Ground (1952)', genres=[Film-Noir, Crime, Drama]}
+Movie{name='Pursuit of Happyness, The (2006)', genres=[Drama]}
+Movie{name='Mrs. Palfrey at the Claremont (2005)', genres=[Comedy, Drama]}
+Movie{name='Cria Cuervos (1976)', genres=[Drama]}
+Movie{name='Secret Life of Words, The (2005)', genres=[Romance, Drama]}
+Movie{name='Chaos (2005)', genres=[Crime, Action, Thriller, Drama]}
+Movie{name='Murmur of the Heart (Le souffle au coeur) (1971)', genres=[Drama]}
+Movie{name='Compulsion (1959)', genres=[Crime, Thriller, Drama]}
+Movie{name='Dirty Mary Crazy Larry (1974)', genres=[Crime, Action, Romance, Drama]}
+Movie{name='Step Up (2006)', genres=[Romance, Drama]}
+Movie{name='Zoom (2006)', genres=[Adventure, Fantasy, Comedy, Drama]}
+Movie{name='Half Nelson (2006)', genres=[Drama]}
+Movie{name='Tideland (2005)', genres=[Fantasy, Thriller, Drama]}
+Movie{name='Adam's Apples (Adams æbler) (2005)', genres=[Comedy, Drama]}
+Movie{name='Illusionist, The (2006)', genres=[Fantasy, Romance, Mystery, Drama]}
+Movie{name='The Queen (2006)', genres=[Drama]}
+Movie{name='Blithe Spirit (1945)', genres=[Fantasy, Romance, Comedy, Drama]}
+Movie{name='Crossover (2006)', genres=[Action, Drama]}
+Movie{name='Wind That Shakes the Barley, The (2006)', genres=[War, Drama]}
+Movie{name='Hollywoodland (2006)', genres=[Crime, Thriller, Mystery, Drama]}
+Movie{name='SherryBaby (2006)', genres=[Drama]}
+Movie{name='Jesus Camp (2006)', genres=[Drama, Documentary]}
+Movie{name='Tiger and the Snow, The (La tigre e la neve) (2005)', genres=[Romance, War, Comedy, Drama]}
+Movie{name='Fountain, The (2006)', genres=[Fantasy, Romance, Drama]}
+Movie{name='Science of Sleep, The (La science des rêves) (2006)', genres=[Fantasy, Romance, Comedy, Drama]}
+Movie{name='Black Dahlia, The (2006)', genres=[Crime, Thriller, Mystery, Drama]}
+Movie{name='Seventh Continent, The (Der siebente Kontinent) (1989)', genres=[Drama]}
+Movie{name='Streamers (1983)', genres=[War, Drama]}
+Movie{name='Taxidermia (2006)', genres=[Horror, Comedy, Drama]}
+Movie{name='Empire Falls (2005)', genres=[Romance, Drama]}
+Movie{name='Private Life of Henry VIII, The (1933)', genres=[Comedy, Drama]}
+Movie{name='Apocalypto (2006)', genres=[Adventure, Thriller, Drama]}
+Movie{name='Flyboys (2006)', genres=[Action, Adventure, War, Drama]}
+Movie{name='Pan's Labyrinth (Laberinto del fauno, El) (2006)', genres=[Fantasy, Thriller, Drama]}
+Movie{name='Departed, The (2006)', genres=[Crime, Thriller, Drama]}
+Movie{name='Running With Scissors (2006)', genres=[Comedy, Drama]}
+Movie{name='Grudge 2, The (2006)', genres=[Horror, Thriller, Mystery, Drama]}
+Movie{name='Marine, The (2006)', genres=[Action, Thriller, Drama]}
+Movie{name='Elementary Particles, The (Elementarteilchen) (2006)', genres=[Romance, Drama]}
+Movie{name='Offside (2006)', genres=[Comedy, Drama]}
+Movie{name='Little Children (2006)', genres=[Romance, Drama]}
+Movie{name='Facing the Giants (2006)', genres=[Action, Drama]}
+Movie{name='Last King of Scotland, The (2006)', genres=[Thriller, Drama]}
+Movie{name='Shortbus (2006)', genres=[Romance, Comedy, Drama]}
+Movie{name='Children of Men (2006)', genres=[Action, Adventure, Sci-Fi, Thriller, Drama]}
+Movie{name='Prestige, The (2006)', genres=[Sci-Fi, Thriller, Mystery, Drama]}
+Movie{name='Flags of Our Fathers (2006)', genres=[War, Drama]}
+Movie{name='Flicka (2006)', genres=[Children, Drama]}
+Movie{name='Sleeping Dogs Lie (a.k.a. Stay) (2006)', genres=[Romance, Comedy, Drama]}
+Movie{name='Guide to Recognizing Your Saints, A (2006)', genres=[Crime, Drama]}
+Movie{name='Perfume: The Story of a Murderer (2006)', genres=[Crime, Thriller, Drama]}
+Movie{name='Shooting Dogs (a.k.a. Beyond the Gates) (2005)', genres=[War, Drama, Documentary]}
+Movie{name='Bobby (2006)', genres=[Drama]}
+Movie{name='10 Items or Less (2006)', genres=[Romance, Comedy, Drama]}
+Movie{name='Luna de Avellaneda (2004)', genres=[Romance, Drama]}
+Movie{name='Harsh Times (2006)', genres=[Crime, Action, Drama]}
+Movie{name='Simon of the Desert (Simón del desierto) (1965)', genres=[Drama]}
+Movie{name='Turistas (2006)', genres=[Adventure, Horror, Thriller, Mystery, Drama]}
+Movie{name='Blood Diamond (2006)', genres=[Crime, Action, Adventure, War, Thriller, Drama]}
+Movie{name='Charlotte's Web (2006)', genres=[Fantasy, Comedy, Children, Drama]}
+Movie{name='Rocky Balboa (2006)', genres=[Action, Drama]}
+Movie{name='Dam Busters, The (1955)', genres=[Action, War, Drama]}
+Movie{name='Painted Veil, The (2006)', genres=[Romance, Drama]}
+Movie{name='Plague Dogs, The (1982)', genres=[Adventure, Animation, Drama]}
+Movie{name='Good Shepherd, The (2006)', genres=[Thriller, Drama]}
+Movie{name='Dreamgirls (2006)', genres=[Musical, Drama]}
+Movie{name='Decameron, The (Decameron, Il) (1971)', genres=[Comedy, Drama]}
+Movie{name='Freedom Writers (2007)', genres=[Drama]}
+Movie{name='Inland Empire (2006)', genres=[Thriller, Mystery, Drama]}
+Movie{name='History Boys, The (2006)', genres=[Comedy, Drama]}
+Movie{name='Notes on a Scandal (2006)', genres=[Drama]}
+Movie{name='Curse of the Golden Flower (Man cheng jin dai huang jin jia) (2006)', genres=[Action, Drama]}
+Movie{name='Bothersome Man, The (Brysomme mannen, Den) (2006)', genres=[Fantasy, Comedy, Mystery, Drama]}
+Movie{name='Good German, The (2006)', genres=[Thriller, Mystery, Drama]}
+Movie{name='Letters from Iwo Jima (2006)', genres=[War, Drama]}
+Movie{name='Miss Potter (2006)', genres=[Drama]}
+Movie{name='Alice in the Cities (Alice in den Stadten) (1974)', genres=[Drama]}
+Movie{name='Old Joy (2006)', genres=[Drama]}
+Movie{name='Alpha Dog (2007)', genres=[Crime, Drama]}
+Movie{name='After the Wedding (Efter brylluppet) (2006)', genres=[Drama]}
+Movie{name='Linda Linda Linda (2005)', genres=[Comedy, Drama]}
+Movie{name='Waitress (2007)', genres=[Romance, Comedy, Drama]}
+Movie{name='Catch and Release (2006)', genres=[Romance, Comedy, Drama]}
+Movie{name='Smokin' Aces (2006)', genres=[Crime, Action, Thriller, Drama]}
+Movie{name='Because I Said So (2007)', genres=[Romance, Comedy, Drama]}
+Movie{name='Hannibal Rising (2007)', genres=[Horror, Thriller, Drama]}
+Movie{name='Boss of It All, The (Direktøren for det hele) (2006)', genres=[Comedy, Drama]}
+Movie{name='Ratatouille (2007)', genres=[Animation, Children, Drama]}
+Movie{name='Astronaut Farmer, The (2007)', genres=[Drama]}
+Movie{name='Breach (2007)', genres=[Thriller, Drama]}
+Movie{name='Number 23, The (2007)', genres=[Thriller, Mystery, Drama]}
+Movie{name='Black Snake Moan (2006)', genres=[Drama]}
+Movie{name='Gray Matters (2006)', genres=[Romance, Comedy, Drama]}
+Movie{name='Factory Girl (2006)', genres=[Drama]}
+Movie{name='Karla (2006)', genres=[Crime, Thriller, Drama]}
+Movie{name='Citizen X (1995)', genres=[Crime, Thriller, Drama]}
+Movie{name='Canterbury Tales, The (I racconti di Canterbury) (1972)', genres=[Comedy, Drama]}
+Movie{name='Breaking and Entering (2006)', genres=[Drama]}
+Movie{name='Amazing Grace (2006)', genres=[Romance, Drama]}
+Movie{name='Zodiac (2007)', genres=[Crime, Thriller, Drama]}
+Movie{name='Host, The (Gwoemul) (2006)', genres=[Horror, Sci-Fi, Comedy, Thriller, Drama]}
+Movie{name='America, America (1963)', genres=[Drama]}
+Movie{name='Becoming Jane (2007)', genres=[Romance, Drama]}
+Movie{name='Namesake, The (2006)', genres=[Romance, Drama]}
+Movie{name='Premonition (2007)', genres=[Fantasy, Thriller, Mystery, Drama]}
+Movie{name='Reign Over Me (2007)', genres=[Drama]}
+Movie{name='Shooter (2007)', genres=[Action, Thriller, Drama]}
+Movie{name='Lookout, The (2007)', genres=[Crime, Thriller, Drama]}
+Movie{name='Inglorious Bastards (Quel maledetto treno blindato) (1978)', genres=[Action, Adventure, War, Drama]}
+Movie{name='Sunshine (2007)', genres=[Adventure, Sci-Fi, Thriller, Drama]}
+Movie{name='No Way Out (1950)', genres=[Film-Noir, Drama]}
+Movie{name='Perfect Stranger (2007)', genres=[Crime, Thriller, Mystery, Drama]}
+Movie{name='Disturbia (2007)', genres=[Thriller, Drama]}
+Movie{name='Pathfinder (2007)', genres=[Action, Adventure, War, Thriller, Drama]}
+Movie{name='Tristana (1970)', genres=[Drama]}
+Movie{name='Vie en Rose, La (Môme, La) (2007)', genres=[Musical, Drama]}
+Movie{name='Fracture (2007)', genres=[Crime, Thriller, Mystery, Drama]}
+Movie{name='Woman on the Beach (Haebyeonui yeoin) (2006)', genres=[Comedy, Drama]}
+Movie{name='Benny's Video (1992)', genres=[Horror, Drama]}
+Movie{name='In the Land of Women (2007)', genres=[Romance, Comedy, Drama]}
+Movie{name='Invisible, The (2007)', genres=[Crime, Fantasy, Thriller, Mystery, Drama]}
+Movie{name='Sylvia Scarlett (1935)', genres=[Romance, Comedy, Drama]}
+Movie{name='This Is England (2006)', genres=[Drama]}
+Movie{name='Away from Her (2006)', genres=[Drama]}
+Movie{name='Knocked Up (2007)', genres=[Romance, Comedy, Drama]}
+Movie{name='Hairspray (2007)', genres=[Musical, Comedy, Drama]}
+Movie{name='Red Dust (1932)', genres=[Drama]}
+Movie{name='Once (2006)', genres=[Romance, Musical, Drama]}
+Movie{name='Mr. Brooks (2007)', genres=[Crime, Thriller, Drama]}
+Movie{name='Gracie (2007)', genres=[Drama]}
+Movie{name='88 Minutes (2008)', genres=[Crime, Thriller, Mystery, Drama]}
+Movie{name='Cashback (2006)', genres=[Romance, Comedy, Drama]}
+Movie{name='Paranoid Park (2007)', genres=[Crime, Drama]}
+Movie{name='Rescue Dawn (2006)', genres=[Action, Adventure, War, Drama]}
+Movie{name='Night of the Generals, The (1967)', genres=[Crime, War, Thriller, Mystery, Drama]}
+Movie{name='O Lucky Man! (1973)', genres=[Fantasy, Musical, Comedy, Drama]}
+Movie{name='Sicko (2007)', genres=[Drama, Documentary]}
+Movie{name='1408 (2007)', genres=[Horror, Thriller, Drama]}
+Movie{name='Harry Potter and the Order of the Phoenix (2007)', genres=[Adventure, Fantasy, Drama, IMAX]}
+Movie{name='Across the Universe (2007)', genres=[Fantasy, Romance, Musical, Drama]}
+Movie{name='Sterile Cuckoo, The (1969)', genres=[Comedy, Drama]}
+Movie{name='No Reservations (2007)', genres=[Romance, Comedy, Drama]}
+Movie{name='Charlie Bartlett (2007)', genres=[Comedy, Drama]}
+Movie{name='Tell No One (Ne le dis à personne) (2006)', genres=[Crime, Thriller, Mystery, Drama]}
+Movie{name='12:08 East of Bucharest (A fost sau n-a fost?) (2006)', genres=[Comedy, Drama]}
+Movie{name='Talk to Me (2007)', genres=[Drama]}
+Movie{name='Kingdom, The (2007)', genres=[Action, Thriller, Drama]}
+Movie{name='Rocket Science (2007)', genres=[Comedy, Drama]}
+Movie{name='Invasion, The (2007)', genres=[Action, Horror, Sci-Fi, Thriller, Drama]}
+Movie{name='Nanny Diaries, The (2007)', genres=[Romance, Comedy, Drama]}
+Movie{name='Death Sentence (2007)', genres=[Thriller, Drama]}
+Movie{name='3:10 to Yuma (2007)', genres=[Western, Crime, Action, Drama]}
+Movie{name='Atonement (2007)', genres=[Romance, War, Drama]}
+Movie{name='4 Months, 3 Weeks and 2 Days (4 luni, 3 saptamâni si 2 zile) (2007)', genres=[Drama]}
+Movie{name='Far from the Madding Crowd (1967)', genres=[Romance, Drama]}
+Movie{name='In the Valley of Elah (2007)', genres=[Mystery, Drama]}
+Movie{name='December Boys (2007)', genres=[Drama]}
+Movie{name='Hunting Party, The (2007)', genres=[Action, Adventure, Comedy, Thriller, Drama]}
+Movie{name='Eastern Promises (2007)', genres=[Crime, Thriller, Drama]}
+Movie{name='Cashback (2004)', genres=[Comedy, Drama]}
+Movie{name='Into the Wild (2007)', genres=[Action, Adventure, Drama]}
+Movie{name='Lust, Caution (Se, jie) (2007)', genres=[Romance, War, Thriller, Drama]}
+Movie{name='Seeker: The Dark Is Rising, The (2007)', genres=[Action, Adventure, Fantasy, Drama]}
+Movie{name='Heartbreak Kid, The (2007)', genres=[Romance, Comedy, Drama]}
+Movie{name='Dan in Real Life (2007)', genres=[Romance, Comedy, Drama]}
+Movie{name='Darjeeling Limited, The (2007)', genres=[Adventure, Comedy, Drama]}
+Movie{name='We Own the Night (2007)', genres=[Crime, Drama]}
+Movie{name='Elizabeth: The Golden Age (2007)', genres=[Drama]}
+Movie{name='Michael Clayton (2007)', genres=[Thriller, Drama]}
+Movie{name='Lars and the Real Girl (2007)', genres=[Comedy, Drama]}
+Movie{name='Gone Baby Gone (2007)', genres=[Crime, Mystery, Drama]}
+Movie{name='Weirdsville (2007)', genres=[Crime, Comedy, Drama]}
+Movie{name='Assassination of Jesse James by the Coward Robert Ford, The (2007)', genres=[Western, Crime, Drama]}
+Movie{name='Irina Palm (2007)', genres=[Drama]}
+Movie{name='Persepolis (2007)', genres=[Animation, Drama]}
+Movie{name='Control (2007)', genres=[Drama]}
+Movie{name='The Jane Austen Book Club (2007)', genres=[Romance, Comedy, Drama]}
+Movie{name='Silk (2007)', genres=[Adventure, Romance, Drama]}
+Movie{name='Edge of Heaven, The (Auf der anderen Seite) (2007)', genres=[Drama]}
+Movie{name='Tyler Perry's Why Did I Get Married? (2007)', genres=[Comedy, Drama]}
+Movie{name='Scum (1979)', genres=[Crime, Drama]}
+Movie{name='City of Violence, The (Jjakpae) (2006)', genres=[Crime, Action, Drama]}
+Movie{name='Elite Squad (Tropa de Elite) (2007)', genres=[Crime, Action, Thriller, Drama]}
+Movie{name='Martian Child (2007)', genres=[Comedy, Drama]}
+Movie{name='Chilly Scenes of Winter (Head Over Heels) (1979)', genres=[Romance, Comedy, Drama]}
+Movie{name='American Gangster (2007)', genres=[Crime, Thriller, Drama]}
+Movie{name='Before the Devil Knows You're Dead (2007)', genres=[Crime, Thriller, Drama]}
+Movie{name='Diving Bell and the Butterfly, The (Scaphandre et le papillon, Le) (2007)', genres=[Drama]}
+Movie{name='No Country for Old Men (2007)', genres=[Crime, Drama]}
+Movie{name='August Rush (2007)', genres=[Musical, Drama]}
+Movie{name='Desperate Hours, The (1955)', genres=[Film-Noir, Thriller, Drama]}
+Movie{name='Man from Earth, The (2007)', genres=[Sci-Fi, Drama]}
+Movie{name='Lions For Lambs (2007)', genres=[War, Thriller, Drama]}
+Movie{name='Southland Tales (2006)', genres=[Sci-Fi, Comedy, Thriller, Drama]}
+Movie{name='Kansas City Confidential (1952)', genres=[Film-Noir, Crime, Mystery, Drama]}
+Movie{name='Murder Party (2007)', genres=[Horror, Comedy, Thriller, Drama]}
+Movie{name='XXY (2007)', genres=[Drama]}
+Movie{name='Awake (2007)', genres=[Thriller, Drama]}
+Movie{name='Margot at the Wedding (2007)', genres=[Drama]}
+Movie{name='I'm Not There (2007)', genres=[Drama]}
+Movie{name='Savages, The (2007)', genres=[Comedy, Drama]}
+Movie{name='Orphanage, The (Orfanato, El) (2007)', genres=[Horror, Thriller, Mystery, Drama]}
+Movie{name='Juno (2007)', genres=[Romance, Comedy, Drama]}
+Movie{name='Bucket List, The (2007)', genres=[Comedy, Drama]}
+Movie{name='Kite Runner, The (2007)', genres=[Drama]}
+Movie{name='Butterfly on a Wheel (Shattered) (2007)', genres=[Crime, Thriller, Drama]}
+Movie{name='Wristcutters: A Love Story (2006)', genres=[Fantasy, Romance, Drama]}
+Movie{name='Sweeney Todd: The Demon Barber of Fleet Street (2007)', genres=[Horror, Musical, Thriller, Drama]}
+Movie{name='There Will Be Blood (2007)', genres=[Western, Drama]}
+Movie{name='Charlie Wilson's War (2007)', genres=[War, Comedy, Drama]}
+Movie{name='Great Debaters, The (2007)', genres=[Drama]}
+Movie{name='Dedication (2007)', genres=[Romance, Comedy, Drama]}
+Movie{name='Battlestar Galactica: Razor (2007)', genres=[Action, Sci-Fi, Thriller, Drama]}
+Movie{name='P.S. I Love You (2007)', genres=[Romance, Comedy, Drama]}
+Movie{name='To the Left of the Father (Lavoura Arcaica) (2001)', genres=[Drama]}
+Movie{name='D-War (Dragon Wars) (2007)', genres=[Action, Adventure, Fantasy, Drama]}
+Movie{name='Band's Visit, The (Bikur Ha-Tizmoret) (2007)', genres=[Comedy, Drama]}
+Movie{name='[REC] (2007)', genres=[Horror, Thriller, Drama]}
+Movie{name='Flawless (2007)', genres=[Crime, Drama]}
+Movie{name='Rachel, Rachel (1968)', genres=[Romance, Drama]}
+Movie{name='Welcome to L.A. (1976)', genres=[Musical, Drama]}
+Movie{name='Arranged (2007)', genres=[Romance, Comedy, Drama]}
+Movie{name='Girl Who Leapt Through Time, The (Toki o kakeru shôjo) (2006)', genres=[Animation, Romance, Sci-Fi, Comedy, Drama]}
+Movie{name='Rambo (Rambo 4) (2008)', genres=[Action, War, Thriller, Drama]}
+Movie{name='In Bruges (2008)', genres=[Crime, Comedy, Thriller, Drama]}
+Movie{name='Art of Negative Thinking, The (Kunsten å tenke negativt) (2006)', genres=[Comedy, Drama]}
+Movie{name='Jumper (2008)', genres=[Action, Adventure, Sci-Fi, Thriller, Drama]}
+Movie{name='It's a Free World... (2007)', genres=[Drama]}
+Movie{name='Definitely, Maybe (2008)', genres=[Romance, Comedy, Drama]}
+Movie{name='Vantage Point (2008)', genres=[Action, Thriller, Drama]}
+Movie{name='Spiderwick Chronicles, The (2008)', genres=[Adventure, Fantasy, Children, Drama, IMAX]}
+Movie{name='Step Up 2 the Streets (2008)', genres=[Romance, Musical, Drama]}
+Movie{name='Other Boleyn Girl, The (2008)', genres=[Romance, Drama]}
+Movie{name='Doomsday (2008)', genres=[Action, Sci-Fi, Thriller, Drama]}
+Movie{name='Funny Games U.S. (2007)', genres=[Thriller, Drama]}
+Movie{name='Counterfeiters, The (Die Fälscher) (2007)', genres=[Crime, War, Drama]}
+Movie{name='Mongol (2007)', genres=[War, Drama]}
+Movie{name='City of Men (Cidade dos Homens) (2007)', genres=[Drama]}
+Movie{name='What Just Happened (2008)', genres=[Comedy, Drama]}
+Movie{name='Mala Noche (1985)', genres=[Drama]}
+Movie{name='Class, The (Klass) (2007)', genres=[Drama]}
+Movie{name='Dark Knight, The (2008)', genres=[Crime, Action, Drama, IMAX]}
+Movie{name='Napoléon (1927)', genres=[War, Drama]}
+Movie{name='Under the Same Moon (Misma luna, La) (2007)', genres=[Drama]}
