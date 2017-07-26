@@ -1,9 +1,11 @@
 package com.pluralsight.flink;
 
-import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.InputStream;
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.List;
 import java.util.Properties;
 
 import org.apache.flink.api.common.functions.FilterFunction;
@@ -54,7 +56,7 @@ public class FilterSpanishTweets {
 
 		env.execute();
 	}
-
+	
 	private static class MapToTweet implements MapFunction<String, Tweet> {
 
 		static private final ObjectMapper mapper = new ObjectMapper();
@@ -74,56 +76,3 @@ public class FilterSpanishTweets {
 	}
 }
 
-class Tweet {
-	private String language;
-	private String text;
-
-	/**
-	 * @param language
-	 * @param text
-	 */
-	public Tweet(String language, String text) {
-		super();
-		this.language = language;
-		this.text = text;
-	}
-
-	/**
-	 * @return the language
-	 */
-	public String getLanguage() {
-		return language;
-	}
-
-	/**
-	 * @param language the language to set
-	 */
-	public void setLanguage(String language) {
-		this.language = language;
-	}
-
-	/**
-	 * @return the text
-	 */
-	public String getText() {
-		return text;
-	}
-
-	/**
-	 * @param text the text to set
-	 */
-	public void setText(String text) {
-		this.text = text;
-	}
-
-	/*
-	 * (non-Javadoc)
-	 * 
-	 * @see java.lang.Object#toString()
-	 */
-	@Override
-	public String toString() {
-		return "Tweet [language=" + language + ", text=" + text + "]";
-	}
-
-}
