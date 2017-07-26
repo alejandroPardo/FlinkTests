@@ -103,7 +103,11 @@ under the License.
 			<artifactId>log4j</artifactId>
 			<version>${log4j.version}</version>
 		</dependency>
-		
+		<dependency>
+			<groupId>org.apache.flink</groupId>
+			<artifactId>flink-connector-twitter_2.10</artifactId>
+			<version>${flink.version}</version>
+		</dependency>		
 	</dependencies>
 
 	<profiles>
@@ -144,6 +148,13 @@ under the License.
 					<groupId>log4j</groupId>
 					<artifactId>log4j</artifactId>
 					<version>${log4j.version}</version>
+					<scope>provided</scope>
+				</dependency>
+				
+				<dependency>
+					<groupId>org.apache.flink</groupId>
+					<artifactId>flink-connector-twitter_2.10</artifactId>
+					<version>${flink.version}</version>
 					<scope>provided</scope>
 				</dependency>
 			</dependencies>
